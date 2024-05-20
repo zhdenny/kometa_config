@@ -247,7 +247,7 @@ libraries:
         back_width: 621
         url: >-
           https://raw.githubusercontent.com/zarox-things/configs-and-stuff/main/plex-meta-manager/overlays/images/network/shadow/<<key>>.png
-        back_color: '#000000'
+        back_color: '#00000000'
   TV 4K:
     library_name: TV Shows-4KHDR
     operations:
@@ -393,7 +393,7 @@ libraries:
         back_width: 621
         url: >-
           https://raw.githubusercontent.com/zarox-things/configs-and-stuff/main/plex-meta-manager/overlays/images/network/shadow/<<key>>.png
-        back_color: '#000000'
+        back_color: '#00000000'
   Anime:
     reapply_overlays: false
     schedule: weekly(sunday)
@@ -428,7 +428,7 @@ libraries:
         back_width: 621
         url: >-
           https://raw.githubusercontent.com/zarox-things/configs-and-stuff/main/shadow_logos/studio/<<key>>.png
-        back_color: '#000000'
+        back_color: '#00000000'
     - default: status
       template_variables:
         text_airing: A  I  R  I  N  G
@@ -601,7 +601,7 @@ settings:
   only_filter_missing: false
   show_options: false
   show_missing_assets: false
-  tvdb_language: eng 
+  tvdb_language: eng
   ignore_ids:
   ignore_imdb_ids:
   playlist_sync_to_users: all
@@ -617,6 +617,7 @@ settings:
   - collections
   - overlays
   overlay_artwork_filetype: jpg
+  overlay_artwork_quality:
 plex:
   url: http://192.168.1.51:32400
   token: <<plex-token>>
@@ -625,6 +626,7 @@ plex:
   empty_trash: false
   optimize: false
   db_cache: 1024
+  verify_ssl:
 radarr:
   url: http://192.168.1.111:7878
   token: <<radarr-token>>
@@ -664,6 +666,7 @@ tmdb:
   apikey: <<tmdb-apikey>>
   language: en
   cache_expiration: 60
+  region:
 trakt:
   client_id: <<trakt-client-id>>
   client_secret: <<trakt-client-secret>>
