@@ -1,0 +1,17 @@
+collections:
+    Trending TV Shows:
+        trakt_chart:
+        - chart: trending
+          limit: 30
+        - chart: recommended
+          limit: 30
+        sort_title: '*100'
+        collection_order: release.desc
+    drazzlib_trending_shows:
+        mdblist_list: https://mdblist.com/lists/drazzilb/trending-shows
+        collection_order: custom
+        sync_mode: sync
+        collection_mode: hide
+        build_collection: false
+        sonarr_add_missing: true
+        sonarr_search: true
