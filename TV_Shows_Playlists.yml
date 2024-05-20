@@ -1,0 +1,7 @@
+playlists:
+    South Park Best Episodes:
+        libraries: TV Shows
+        trakt_list: https://trakt.tv/users/alberto467/lists/south-park-best-episodes?sort=rank,asc
+#        builder_level: episode
+#        sort_title: '*101'
+#        collection_order: custom

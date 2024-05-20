@@ -1,0 +1,36 @@
+templates:
+    general:
+        url_poster: <<poster>>
+
+collections:
+    Trending Movies:
+#        tmdb_trending_weekly: 15
+#        tmdb_popular: 15
+#        mdblist_list: https://mdblist.com/lists/yamtrakt/most-watched-of-the-week-filtered #this is Yammes list I copied over to my own mdblist account (I'm using my own below)
+        mdblist_list: https://mdblist.com/lists/stupifier/most-watched-movies-of-the-week-filtered
+        collection_order: custom
+        sort_title: '*100'
+        visible_home: true
+        visible_shared: true
+        url_background: https://i.imgur.com/SOVfrIq.png
+        url_poster: https://i.imgur.com/4vpMZoA.png
+#        stevenlu_popular: true
+        sync_mode: sync
+    Trending Kids Movies:
+        trakt_list: https://trakt.tv/users/linaspurinis/lists/top-watched-movies-of-the-week-for-kids
+        sort_title: '*101'
+    DC Animated Universe:
+        trakt_list:
+          - https://trakt.tv/users/donxy/lists/dc-universe-animated-original-movies
+          - https://trakt.tv/users/billy-shakes/lists/dc-universe-animated-original-movies
+    Studio Ghibli:
+        trakt_list: https://trakt.tv/users/ccanado/lists/ghibli
+        summary: Studio Ghibli Inc. is a Japanese animation film studio headquartered in Koganei, Tokyo. The studio is best known for its animated feature films, and has also produced several short films, television commercials, and one television film. The studio’s mascot and most recognizable symbol is the character, Totoro, a giant cat-like spirit from the 1988 classic, My Neighbor Totoro.
+        radarr_folder: /mnt/unionfs/Media/anime_movies
+        cache_builders: 0
+    A24:
+        trakt_list: https://trakt.tv/users/fidel-cb/lists/a24-movies-and-tv-shows?sort=released,asc
+        collection_order: release
+        sync_mode: sync
+        sort_title: '*103'
+        file_poster: /config/A24.jpg

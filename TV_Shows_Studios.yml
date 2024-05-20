@@ -1,0 +1,167 @@
+######################################################
+#                TV Collections Studios              #
+######################################################
+###########################
+#        Templates        #
+###########################
+templates:
+    Studio:
+        url_poster: <<poster>>
+        sort_title: b_<<collection_name>>
+        collection_order: alpha
+        visible_library: false
+        sync_mode: sync
+        
+collections:
+###########################
+#    Studios Collections  #
+###########################
+ A&E:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113113}
+        tmdb_network: 129
+        summary: Shows Aired on A&E
+ ABC:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113115}
+        tmdb_network: 2
+        summary: Shows Aired on ABC
+ Adult Swim:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113116}
+        tmdb_network: 80
+        summary: Shows Aired on Adult Swim
+ AMC:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113118}
+        tmdb_network: 174
+        summary: Shows Aired on AMC
+ Animal Planet:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113119}
+        tmdb_network: 91
+        summary: Shows Aired on Animal Planet
+ AppleTV+:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/202700}
+        tmdb_network: 2552
+        summary: AppleTV+ Original Shows
+ Bravo:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113133}
+        tmdb_network: 485
+        summary: Shows Aired on Bravo
+ Cartoon Network:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113135}
+        tmdb_network: 56
+        summary: Shows Aired on Cartoon Network
+ CBS:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113138}
+        tmdb_network: 16
+        summary: Shows Aired on CBS
+ CNN:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113145}
+        tmdb_network: 59
+        summary: Shows Aired on CNN
+ Comedy Central:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113146}
+        tmdb_network: 47
+        summary: Shows Aired on Comedy Central
+ CW:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113153}
+        tmdb_network: 71
+        summary: Shows Aired on The CW   
+ Discovery Channel:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113157}
+        tmdb_network: 64
+        summary: Shows Aired on Discovery Channel
+ Disney+:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113160}
+        tmdb_network: 2739
+        summary: Disney+ Original Shows
+ FX:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113174}
+        tmdb_network: 88
+        summary: Shows Aired on FX
+ FOX:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113173}
+        tmdb_network: 19
+        summary: Shows Aired on FOX
+ HBO:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113186}
+        tmdb_network: "49, 3186"
+        summary: HBO Orginal Shows 
+ HGTV:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113183}
+        tmdb_network: 210
+        summary: Shows Aired on HGTV
+ History Channel:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113187}
+        tmdb_network: 65
+        summary: Shows Aired on History Channel
+ Hulu:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113188}
+        tmdb_network: 453
+        summary: Hulu Orginal Shows
+ MTV:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113202}
+        tmdb_network: 33
+        summary: Shows Aired on MTV
+ National Geographic:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113206}
+        tmdb_network: 43
+        summary: Shows Aired on National Geographic
+ NBC:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113217}
+        tmdb_network: 6
+        summary: Shows Aired on NBC
+ Netflix:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113218}
+        tmdb_network: 213
+        summary: HBO Orginal Shows
+ Prime Video:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113247}
+        tmdb_network: 1024
+        summary: Prime Video Original Shows
+ Paramount+:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/195239}
+        tmdb_network: 4330
+        summary: Paramount+ Original Shows
+ Peacock:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/115021}
+        tmdb_network: 3353
+        summary: Peacock Original Shows
+ Showtime:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113257}
+        tmdb_network: 67
+        summary: Showtime Orginal Shows
+ Starz:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113265}
+        tmdb_network: 318
+        summary: Shows Aired on Starz
+ SyFy:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113267}
+        tmdb_network: 77
+        summary: Shows Aired on SYFY
+ TBS:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113270}
+        tmdb_network: 68
+        summary: Shows Aired on TBS
+ TLC:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113274}
+        tmdb_network: 84
+        summary: Shows Aired on TLC
+ TNT:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113276}
+        tmdb_network: 41
+        summary: Shows Aired on TNT
+ TRU TV:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/200590}
+        tmdb_network: 364
+        summary: Shows Aired on TRU TV
+ USA:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113293}
+        tmdb_network: 30
+        summary: Peacock Original Shows    
+ Vice:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113295}
+        sync_mode: sync
+        trakt_list: https://trakt.tv/users/hdlists/lists/vice-original-shows
+        summary: Shows Aired on Vice
+ YouTube:
+        template: {name: Studio, poster: https://theposterdb.com/api/assets/113301}
+        tmdb_network: 1436
+        summary: Shows Aired on YouTube
