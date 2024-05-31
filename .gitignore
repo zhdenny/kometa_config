@@ -2,3 +2,7 @@ logs
 UUID
 config.cache
 docker-compose.yml
+overlays/*
+
+!overlays/edition
+!overlays/edition/*
