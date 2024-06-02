@@ -4,6 +4,15 @@ libraries:
     collection_files:
     - file: config/Movies_yes_radarr.yml
     radarr:
+      url: http://192.168.1.111:7878
+      token: <<radarr-token>>
+      quality_profile: Not Remux
+      root_folder_path: /mnt/unionfs/Media/Movies
+      availability: released
+      add_existing: false
+      upgrade_existing: false
+      ignore_cache: false
+      monitor_existing: false
       add_missing: true
       monitor: true
       search: true
@@ -47,10 +56,7 @@ libraries:
       upgrade_existing: false
       ignore_cache: false
       monitor: true
-      tag:
       search: false
-      radarr_path:
-      plex_path:
       monitor_existing: false
     collection_files:
     - file: config/Movies.yml
@@ -627,22 +633,6 @@ plex:
   optimize: false
   db_cache: 1024
   verify_ssl:
-radarr:
-  url: http://192.168.1.111:7878
-  token: <<radarr-token>>
-  quality_profile: Not Remux
-  root_folder_path: /mnt/unionfs/Media/Movies
-  availability: released
-  add_missing: false
-  add_existing: false
-  upgrade_existing: false
-  ignore_cache: false
-  monitor: true
-  tag:
-  search: false
-  radarr_path:
-  plex_path:
-  monitor_existing: false
 sonarr:
   url: http://192.168.1.111:8989
   token: <<sonarr-token>>
@@ -656,12 +646,12 @@ sonarr:
   monitor: all
   language_profile: English
   season_folder: true
-  tag:
   search: false
   cutoff_search: false
+  monitor_existing: false
+  tag:
   sonarr_path:
   plex_path:
-  monitor_existing: false
 tmdb:
   apikey: <<tmdb-apikey>>
   language: en
