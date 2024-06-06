@@ -674,11 +674,8 @@ mal:
   authorization:
     access_token: <<mal-access-token>>
     token_type: Bearer
-    expires_in: 2678400
+    expires_in: 2592000
     refresh_token: <<mal-refresh-token>>
-    localhost_url:
-  cache_expiration: 60
-  localhost_url:
 mdblist:
   apikey: <<mdblist-apikey>>
   cache_expiration: 60
