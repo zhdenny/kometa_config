@@ -73,7 +73,7 @@ libraries:
         horizontal_align: left
         vertical_offset: 10
         horizontal_offset: 10
-        file_DV-HDR: config//jmxd_github_overlay_images/media_info/codec/DV-HDR_extended.png
+        file_DV-HDR: config/jmxd_github_overlay_images/media_info/codec/DV-HDR_extended.png
         file_DV-Plus: config/jmxd_github_overlay_images/media_info/codec/DV-Plus_extended.png
     - file: /config/jmxd_github_overlay_images/media_info.yml
       template_variables:
