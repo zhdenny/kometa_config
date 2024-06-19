@@ -64,36 +64,26 @@ libraries:
     remove_overlays: false
     reapply_overlays: false
     overlay_files:
-    - file: /config/jmxd_github_overlay_images/media_info.yml
+    - file: /config/jmxd_github_overlay_images/media_info_no_editions.yml
       template_variables:
-        video_only: true
+        use_edition: false
+        use_resolution: false
         use_gradient_bottom: false
         use_gradient_top: true
         vertical_align: top
         horizontal_align: left
         vertical_offset: 10
         horizontal_offset: 10
-        file_DV-HDR: config/jmxd_github_overlay_images/media_info/codec/DV-HDR_extended.png
+        file_DV-HDR: config//jmxd_github_overlay_images/media_info/codec/DV-HDR_extended.png
         file_DV-Plus: config/jmxd_github_overlay_images/media_info/codec/DV-Plus_extended.png
-    - file: /config/jmxd_github_overlay_images/media_info.yml
-      template_variables:
-        audio_only: true
-        use_gradient_bottom: false
-        use_gradient_top: false
-        vertical_align: top
-        horizontal_align: left
-        # vertical_offset: 70
-        vertical_offset: 70
-        horizontal_offset: 10
-    - file: /config/jmxd_github_overlay_images/media_info.yml
+    - file: /config/jmxd_github_overlay_images/media_info_edition_left-aligned.yml
       template_variables:
         edition_only: true
         use_gradient_bottom: false
         use_gradient_top: false
         vertical_align: top
         horizontal_align: left
-        # vertical_offset: 70
-        vertical_offset: 140
+        vertical_offset: 70
         horizontal_offset: 30
   test:
     library_name: pmm_test_library
@@ -145,9 +135,10 @@ libraries:
     remove_overlays: false
     reapply_overlays: false
     overlay_files:
-    - file: /config/jmxd_github_overlay_images/media_info.yml
+    - file: /config/jmxd_github_overlay_images/media_info_no_editions.yml
       template_variables:
-        video_only: true
+        use_edition: false
+        use_resolution: false
         use_gradient_bottom: false
         use_gradient_top: true
         vertical_align: top
@@ -156,25 +147,14 @@ libraries:
         horizontal_offset: 10
         file_DV-HDR: config//jmxd_github_overlay_images/media_info/codec/DV-HDR_extended.png
         file_DV-Plus: config/jmxd_github_overlay_images/media_info/codec/DV-Plus_extended.png
-    - file: /config/jmxd_github_overlay_images/media_info.yml
-      template_variables:
-        audio_only: true
-        use_gradient_bottom: false
-        use_gradient_top: false
-        vertical_align: top
-        horizontal_align: left
-        # vertical_offset: 70
-        vertical_offset: 70
-        horizontal_offset: 10
-    - file: /config/jmxd_github_overlay_images/media_info.yml
+    - file: /config/jmxd_github_overlay_images/media_info_edition_left-aligned.yml
       template_variables:
         edition_only: true
         use_gradient_bottom: false
         use_gradient_top: false
         vertical_align: top
         horizontal_align: left
-        # vertical_offset: 70
-        vertical_offset: 140
+        vertical_offset: 70
         horizontal_offset: 30
   TV Shows:
     operations:
