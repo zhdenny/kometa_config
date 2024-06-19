@@ -29,9 +29,9 @@ libraries:
       sort_title: +00_<<key_name>> Movies
       template_variables:
         name_format: <<key_name>> Movies
+    remove_overlays: false
+    reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlays: false
     - default: resolution
       template_variables:
         horizontal_align: center
@@ -61,9 +61,9 @@ libraries:
     collection_files:
     - file: config/Movies.yml
     - file: config/Movies_reference_audio_collection.yml
+    remove_overlays: false
+    reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlays: true
     - file: /config/jmxd_github_overlay_images/media_info.yml
       template_variables:
         video_only: true
@@ -91,7 +91,7 @@ libraries:
         use_gradient_bottom: false
         use_gradient_top: false
         vertical_align: top
-        horizontal_align: left 
+        horizontal_align: left
         # vertical_offset: 70
         vertical_offset: 140
         horizontal_offset: 30
@@ -99,12 +99,15 @@ libraries:
     library_name: pmm_test_library
     operations:
       assets_for_all: true
+    remove_overlays: false
+    # reapply_overlays: true
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlays: true
-    - file: /config/jmxd_github_overlay_images/media_info.yml
+    - file: /config/jmxd_github_overlay_images/media_info_no_editions.yml
       template_variables:
-        video_only: true
+        # video_only: true
+        # use_combined: true
+        use_edition: false
+        use_resolution: false
         use_gradient_bottom: false
         use_gradient_top: true
         vertical_align: top
@@ -113,35 +116,35 @@ libraries:
         horizontal_offset: 10
         file_DV-HDR: config//jmxd_github_overlay_images/media_info/codec/DV-HDR_extended.png
         file_DV-Plus: config/jmxd_github_overlay_images/media_info/codec/DV-Plus_extended.png
-    - file: /config/jmxd_github_overlay_images/media_info.yml
-      template_variables:
-        audio_only: true
-        use_gradient_bottom: false
-        use_gradient_top: false
-        vertical_align: top
-        horizontal_align: left
-        # vertical_offset: 70
-        vertical_offset: 70
-        horizontal_offset: 10
-    - file: /config/jmxd_github_overlay_images/media_info.yml
+    - file: /config/jmxd_github_overlay_images/media_info_edition_left-aligned.yml
       template_variables:
         edition_only: true
         use_gradient_bottom: false
         use_gradient_top: false
         vertical_align: top
-        horizontal_align: left 
-        # vertical_offset: 70
-        vertical_offset: 140
+        horizontal_align: left
+        vertical_offset: 70
+        # vertical_offset: 140
         horizontal_offset: 30
+    # - file: /config/jmxd_github_overlay_images/media_info.yml
+    #   template_variables:
+    #     audio_only: true
+    #     use_gradient_bottom: false
+    #     use_gradient_top: false
+    #     vertical_align: top
+    #     horizontal_align: left
+    #     # vertical_offset: 70
+    #     vertical_offset: 70
+    #     horizontal_offset: 10
   Movies-4KHDR:
     library_name: Movies-4KHDR
     operations:
       assets_for_all: true
     collection_files:
     - file: config/Movies.yml
+    remove_overlays: false
+    reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlays: true
     - file: /config/jmxd_github_overlay_images/media_info.yml
       template_variables:
         video_only: true
@@ -169,7 +172,7 @@ libraries:
         use_gradient_bottom: false
         use_gradient_top: false
         vertical_align: top
-        horizontal_align: left 
+        horizontal_align: left
         # vertical_offset: 70
         vertical_offset: 140
         horizontal_offset: 30
@@ -179,9 +182,9 @@ libraries:
     collection_files:
     - file: config/TV_Shows.yml
     - file: config/TV_Shows_Studios.yml
+    remove_overlays: false
+    reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlays: false
     - default: status
       template_variables:
         text_airing: A  I  R  I  N  G
@@ -221,9 +224,9 @@ libraries:
     collection_files:
     - file: config/TV_Shows.yml
     - file: config/TV_Shows_Studios.yml
+    remove_overlays: false
+    reapply_overlays: false
     overlay_files:
-    - remove_overlays: false
-    - reapply_overlays: false
     - default: resolution
       template_variables:
         builder_level: show
@@ -359,7 +362,6 @@ libraries:
           https://raw.githubusercontent.com/zarox-things/configs-and-stuff/main/plex-meta-manager/overlays/images/network/shadow/<<key>>.png
         back_color: '#00000000'
   Anime:
-    reapply_overlays: false
     schedule: weekly(sunday)
     collection_files:
     - default: myanimelist
@@ -381,6 +383,8 @@ libraries:
         use_all4: false
         use_now: false
         sort_by: random
+    remove_overlays: false
+    reapply_overlays: false
     overlay_files:
     - remove_overlays: false
     - reapply_overlays: false
@@ -490,6 +494,8 @@ libraries:
         collection_mode: hide
         visible_library_studio_ghibli: true
         use_separator: false
+    remove_overlays: false
+    reapply_overlays: false
     overlay_files:
     - default: languages
       template_variables:
@@ -520,7 +526,6 @@ libraries:
           horizontal_align: left
           vertical_offset: 304
           vertical_align: top
-    - remove_overlays: false
 operations:
   assets_for_all: true
   delete_collections:
@@ -621,10 +626,10 @@ trakt:
   authorization:
     access_token: <<trakt-access-token>>
     token_type: Bearer
-    expires_in: <<trakt-expires>>
+    expires_in: 7889237
     refresh_token: <<trakt-refresh-token>>
     scope: public
-    created_at: <<trakt-created>>
+    created_at: 1718269253
   pin:
 mal:
   client_id: <<mal-client-id>>
