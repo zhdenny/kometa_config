@@ -207,110 +207,29 @@ libraries:
     remove_overlays: false
     reapply_overlays: false
     overlay_files:
-    - default: resolution
+    - file: /config/jmxd_github_overlay_images/media_info_no_editions.yml
       template_variables:
         builder_level: show
-        horizontal_align: left
+        resolution_only: true
         vertical_align: top
-        horizontal_offset: 2
-        vertical_offset: 50
-        back_color: '#00000080'
-        back_radius: 0
-        back_align: left
-        back_width: 250
-        back_height: 70
-        use_4k_dvhdr: false
-        use_1080p_dvhdr: false
-        use_dvhdr: false
-        use_1080p: false
-        use_720p: false
-        use_576p: false
-        use_480p: false
-        use_edition: false
-    - default: audio_codec
-      template_variables:
-        builder_level: show
         horizontal_align: left
-        vertical_align: top
-        horizontal_offset: 2
-        vertical_offset: 159
-        back_color: '#00000080'
-        back_radius: 0
-        back_align: left
-        back_width: 250
-        back_height: 70
-        use_truehd_atmos: false
-        use_plus_atmos: false
-        url_dolby_atmos: >-
-          https://raw.githubusercontent.com/Kometa-Team/Kometa/master/defaults/overlays/images/audio_codec/compact/atmos.png
-        url_dtsx: >-
-          https://raw.githubusercontent.com/Kometa-Team/Kometa/master/defaults/overlays/images/audio_codec/compact/dtsx.png
-        url_ma: >-
-          https://raw.githubusercontent.com/Kometa-Team/Kometa/master/defaults/overlays/images/audio_codec/compact/ma.png
-        use_truehd: false
-        use_ma: false
-        use_flac: false
-        use_pcm: false
-        use_hra: false
-        use_plus: false
-        use_dtses: false
-        use_dts: false
-        use_digital: false
-        use_aac: false
-        use_mp3: false
-        use_opus: false
-    - default: resolution
+        vertical_offset: 10
+        horizontal_offset: 10
+        use_gradient_top: true
+        use_gradient_bottom: false
+    - file: /config/jmxd_github_overlay_images/media_info_no_editions.yml
       template_variables:
         builder_level: episode
-        horizontal_align: left
-        vertical_align: top
-        horizontal_offset: 2
-        vertical_offset: 50
-        back_color: '#00000080'
-        back_radius: 0
-        back_align: left
-        back_width: 250
-        back_height: 70
-        use_4k_dvhdr: false
-        use_1080p_dvhdr: false
-        use_dvhdr: false
-        use_1080p: false
-        use_720p: false
-        use_576p: false
-        use_480p: false
         use_edition: false
-    - default: audio_codec
-      template_variables:
-        builder_level: episode
-        horizontal_align: left
+        use_resolution: false
+        use_gradient_bottom: false
+        use_gradient_top: true
         vertical_align: top
-        horizontal_offset: 2
-        vertical_offset: 159
-        back_color: '#00000080'
-        back_radius: 0
-        back_align: left
-        back_width: 250
-        back_height: 70
-        use_truehd_atmos: false
-        use_plus_atmos: false
-        url_dolby_atmos: >-
-          https://raw.githubusercontent.com/Kometa-Team/Kometa/master/defaults/overlays/images/audio_codec/compact/atmos.png
-        url_dtsx: >-
-          https://raw.githubusercontent.com/Kometa-Team/Kometa/master/defaults/overlays/images/audio_codec/compact/dtsx.png
-        url_ma: >-
-          https://raw.githubusercontent.com/Kometa-Team/Kometa/master/defaults/overlays/images/audio_codec/compact/ma.png
-        use_truehd: false
-        use_ma: false
-        use_flac: false
-        use_pcm: false
-        use_hra: false
-        use_plus: false
-        use_dtses: false
-        use_dts: false
-        use_digital: false
-        use_aac: false
-        use_mp3: false
-        use_opus: false
+        horizontal_align: left
+        vertical_offset: 10
+        horizontal_offset: 10
+        file_DV-HDR: config//jmxd_github_overlay_images/media_info/codec/DV-HDR_extended.png
+        file_DV-Plus: config/jmxd_github_overlay_images/media_info/codec/DV-Plus_extended.png
     - default: status
       template_variables:
         text_airing: A  I  R  I  N  G
@@ -335,7 +254,8 @@ libraries:
     - default: network
       template_variables:
         horizontal_align: center
-        vertical_offset: 50
+        horizontal_offset: 10
+        vertical_offset: 18
         vertical_align: top
         back_width: 621
         url: >-
