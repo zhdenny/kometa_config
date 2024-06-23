@@ -66,7 +66,6 @@ libraries:
     overlay_files:
     - file: /config/jmxd_github_overlay_images/media_info_no_editions.yml
       template_variables:
-        use_edition: false
         use_resolution: false
         use_gradient_bottom: false
         use_gradient_top: true
@@ -96,7 +95,6 @@ libraries:
       template_variables:
         # video_only: true
         # use_combined: true
-        use_edition: false
         use_resolution: false
         use_gradient_bottom: false
         use_gradient_top: true
@@ -180,7 +178,6 @@ libraries:
     - file: /config/jmxd_github_overlay_images/media_info_no_editions.yml
       template_variables:
         builder_level: episode
-        use_edition: false
         use_resolution: false
         use_gradient_bottom: false
         use_gradient_top: true

@@ -42,21 +42,16 @@ external_templates:
             value: config/jmxd_github_overlay_images/media_info/codec/<<key>>.png
           - type: resolution
             value: config/jmxd_github_overlay_images/media_info/resolution/<<key>>.png
-          # - type: edition
-          #   value: config/jmxd_github_overlay_images/media_info/edition/<<key>>.png
       final_use:
         conditions:
           - video_only.exists: true
-            type: [combined, audio, resolution, edition]
+            type: [combined, audio, resolution]
             value: false
           - audio_only.exists: true
-            type: [combined, video, resolution, edition]
+            type: [combined, video, resolution]
             value: false
           - resolution_only.exists: true
-            type: [combined, video, audio, edition]
-            value: false
-          - edition_only.exists: true
-            type: [combined, video, audio, resolution]
+            type: [combined, video, audio]
             value: false
       suppress_overlays:
         conditions:
@@ -88,7 +83,7 @@ external_templates:
               - DV-Plus
       vertical_align:
         conditions:
-          - type: [resolution, edition]
+          - type: [resolution]
             value: top
           - type: [combined, video, audio]
             value: bottom
@@ -103,7 +98,7 @@ external_templates:
             value: 202
       group:
         conditions:
-          - type: [resolution, edition]
+          - type: [resolution]
             value: <<type>>
           - type: [combined, video, audio]
             value: <<type>>_codec
@@ -207,58 +202,6 @@ templates:
     ignore_blank_results: true
     plex_all: true
     filters:
-      filepath.regex: <<regex>>
-
-  edition_info:
-    conditionals:
-      regex:
-        conditions:
-          - key: IMAX
-            value: '(?i)\{edition-IMAX[^}]*\}'
-          - key: Unrated-Edition
-            value: '(?i)\{edition-Unrated[^}]*\}'
-          - key: Directors-Cut
-            value: '(?i)\{edition-(Director|Ultimate Director)[^}]*\}'
-          - key: Special-Edition
-            value: '(?i)\{edition-Special[^}]*\}'
-          - key: Anniversary-Edition
-            value: '(?i)\{edition-\d+th Anniversary[^}]*\}'
-          - key: Collectors-Edition
-            value: '(?i)\{edition-Collector[^}]*\}'
-          - key: Minus-Color
-            value: '(?i)\{edition-Minus Color[^}]*\}'
-          - key: Extended-Cut
-            value: '(?i)\{edition-Extended Cut[^}]*\}'
-          - key: Extended-Edition
-            value: '(?i)\{edition-Extended(?! Cut)[^}]*\}'
-          - key: Open-Matte
-            value: '(?i)\{edition-Open Matte[^}]*\}'
-          - key: Final-Cut
-            value: '(?i)\{edition-Final Cut[^}]*\}'
-          - key: Remastered
-            value: '(?i)\{edition-Remastered[^}]*\}'
-          - key: Restored
-            value: '(?i)\{edition-Restored[^}]*\}'
-          - key: Signature-Edition
-            value: '(?i)\{edition-Signature[^}]*\}'
-          - key: Theatrical
-            value: '(?i)\{edition-Theatrical(?! Cut)[^}]*\}'
-          - key: Theatrical-Cut
-            value: '(?i)\{edition-Theatrical Cut[^}]*\}'
-          - key: Uncut
-            value: '(?i)\{edition-Uncut[^}]*\}'
-          - key: Ultimate-Edition
-            value: '(?i)\{edition-Ultimate(?! Director)[^}]*\}'
-    optional:
-      - use_<<type>>
-      - allowed_libraries
-    run_definition:
-      - <<use_<<type>>>>
-      - <<allowed_libraries>>
-    ignore_blank_results: true
-    plex_all: true
-    filters:
-      resolution: <<res>>
       filepath.regex: <<regex>>
 
   backdrop:
@@ -407,112 +350,3 @@ overlays:
     variables: { key: Ultra-HD, weight: 500, type: resolution }
     template: [ name: standard, name: resolution_info ]
 
-  IMAX-1080p:
-    variables: { key: IMAX, res: 1080p, weight: 420, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Unrated-Edition-1080p:
-    variables: { key: Unrated-Edition, res: 1080p, weight: 430, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Directors-Cut-1080p:
-    variables: { key: Directors-Cut, res: 1080p, weight: 440, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Special-Edition-1080p:
-    variables: { key: Special-Edition, res: 1080p, weight: 450, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Anniversary-Edition-1080p:
-    variables: { key: Anniversary-Edition, res: 1080p, weight: 460, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Collectors-Edition-1080p:
-    variables: { key: Collectors-Edition, res: 1080p, weight: 470, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Minus-Color-1080p:
-    variables: { key: Minus-Color, res: 1080p, weight: 480, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Extended-Cut-1080p:
-    variables: { key: Extended-Cut, res: 1080p, weight: 490, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Extended-Edition-1080p:
-    variables: { key: Extended-Edition, res: 1080p, weight: 500, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Open-Matte-1080p:
-    variables: { key: Open-Matte, res: 1080p, weight: 510, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Final-Cut-1080p:
-    variables: { key: Final-Cut, res: 1080p, weight: 520, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Remastered-1080p:
-    variables: { key: Remastered, res: 1080p, weight: 530, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Restored-1080p:
-    variables: { key: Restored, res: 1080p, weight: 540, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Signature-Edition-1080p:
-    variables: { key: Signature-Edition, res: 1080p, weight: 550, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Theatrical-1080p:
-    variables: { key: Theatrical, res: 1080p, weight: 560, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Theatrical-Cut-1080p:
-    variables: { key: Theatrical-Cut, res: 1080p, weight: 570, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Uncut-1080p:
-    variables: { key: Uncut, res: 1080p, weight: 580, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Ultimate-Edition-1080p:
-    variables: { key: Ultimate-Edition, res: 1080p, weight: 590, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-
-  IMAX-4K:
-    variables: { key: IMAX, res: 4K, weight: 420, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Unrated-Edition-4K:
-    variables: { key: Unrated-Edition, res: 4K, weight: 430, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Directors-Cut-4K:
-    variables: { key: Directors-Cut, res: 4K, weight: 440, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Special-Edition-4K:
-    variables: { key: Special-Edition, res: 4K, weight: 450, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Anniversary-Edition-4K:
-    variables: { key: Anniversary-Edition, res: 4K, weight: 460, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Collectors-Edition-4K:
-    variables: { key: Collectors-Edition, res: 4K, weight: 470, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Minus-Color-4K:
-    variables: { key: Minus-Color, res: 4K, weight: 480, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Extended-Cut-4K:
-    variables: { key: Extended-Cut, res: 4K, weight: 490, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Extended-Edition-4K:
-    variables: { key: Extended-Edition, res: 4K, weight: 500, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Open-Matte-4K:
-    variables: { key: Open-Matte, res: 4K, weight: 510, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Final-Cut-4K:
-    variables: { key: Final-Cut, res: 4K, weight: 520, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Remastered-4K:
-    variables: { key: Remastered, res: 4K, weight: 530, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Restored-4K:
-    variables: { key: Restored, res: 4K, weight: 540, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Signature-Edition-4K:
-    variables: { key: Signature-Edition, res: 4K, weight: 550, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Theatrical-4K:
-    variables: { key: Theatrical, res: 4K, weight: 560, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Theatrical-Cut-4K:
-    variables: { key: Theatrical-Cut, res: 4K, weight: 570, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Uncut-4K:
-    variables: { key: Uncut, res: 4K, weight: 580, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
-  Ultimate-Edition-4K:
-    variables: { key: Ultimate-Edition, res: 4K, weight: 590, allowed_libraries: movie, type: edition }
-    template: [ name: standard, name: edition_info ]
