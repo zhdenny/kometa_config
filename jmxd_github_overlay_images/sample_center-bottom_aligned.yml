@@ -5,7 +5,7 @@ libraries:
     overlay_files:
     - remove_overlays: false
     - reapply_overlays: true
-    - file: /config/jmxd_github_overlay_images/media_info.yml
+    - file: /config/jmxd_github_overlay_images/media_info_no_editions.yml
       template_variables:
         video_only: true
         use_gradient_bottom: false
@@ -16,7 +16,7 @@ libraries:
         horizontal_offset: 10
         file_DV-HDR: config/jmxd_github_overlay_images/media_info/codec/DV-HDR_extended.png
         file_DV-Plus: config/jmxd_github_overlay_images/media_info/codec/DV-Plus_extended.png
-    - file: /config/jmxd_github_overlay_images/media_info.yml
+    - file: /config/jmxd_github_overlay_images/media_info_no_editions.yml
       template_variables:
         audio_only: true
         use_gradient_bottom: false
