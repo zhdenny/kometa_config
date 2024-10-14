@@ -13,3 +13,19 @@ collections:
     sort_title: "*101"
     radarr_add_missing: true
     radarr_search: true
+  FEL:
+    libraries: Movies-4KHDR-dv
+    radarr_taglist: fel
+    summary: "Collection of movies with a Full Enhancement Layer ('fel' tag in radarr)."
+    collection_mode: show_items # To always display items
+    collection_order: release # Order by release date
+    sync_mode: sync # Sync items; remove those not matching the buildery
+    sort_title: "*101.1"
+  MEL:
+    libraries: Movies-4KHDR-dv
+    radarr_taglist: mel
+    summary: "Collection of movies with a Minimum Enhancement Layer ('mel' tag in radarr)."
+    collection_mode: show_items # To always display items
+    collection_order: release # Order by release date
+    sync_mode: sync # Sync items; remove those not matching the builder
+    sort_title: "*101.2"
