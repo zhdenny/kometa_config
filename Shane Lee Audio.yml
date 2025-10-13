@@ -226,9 +226,9 @@ metadata:
     tmdb: 526896
     imdb: tt5108870
     critic_rating: 97
-  Mortal Kombat (1995):
-    tmdb: 9312
-    imdb: tt0113855
+  Mortal Kombat (2021):
+    tmdb: 460465
+    imdb: tt0293429
     critic_rating: 93
   'Mufasa: The Lion King (2024)':
     tmdb: 762509
@@ -262,9 +262,9 @@ metadata:
     tmdb: 460458
     imdb: tt6920084
     critic_rating: 96
-  Robin Hood (1985):
-    tmdb: 114612
-    imdb: tt0786915
+  Robin Hood (2018):
+    tmdb: 375588
+    imdb: tt4532826
     critic_rating: 90
   Serenity (2005):
     tmdb: 16320
@@ -386,9 +386,9 @@ metadata:
     tmdb: 1078605
     imdb: tt26581740
     critic_rating: 98
-  Wolfman (1979):
-    tmdb: 156310
-    imdb: tt0141996
+  Wolf Man (2025):
+    tmdb: 710295
+    imdb: tt4216984
     critic_rating: 98
   Zack Snyder's Justice League (2021):
     tmdb: 791373

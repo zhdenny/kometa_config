@@ -171,8 +171,9 @@ metadata:
     tmdb: 52541
     imdb: tt0356577
     audience_rating: 95
-  Waffle F1 - The Movie (2022):
-    tmdb: 1239561
+  F1 (2025):
+    tmdb: 911430
+    imdb: tt16311594
     audience_rating: 90
   'Fantastic Beasts: The Crimes of Grindelwald (2018)':
     tmdb: 338952
@@ -330,9 +331,9 @@ metadata:
     tmdb: 428078
     imdb: tt1571234
     audience_rating: 100
-  Mortal Kombat (1995):
-    tmdb: 9312
-    imdb: tt0113855
+  Mortal Kombat (2021):
+    tmdb: 460465
+    imdb: tt0293429
     audience_rating: 91
   'Mufasa: The Lion King (2024)':
     tmdb: 762509
@@ -374,9 +375,9 @@ metadata:
     tmdb: 460458
     imdb: tt6920084
     audience_rating: 90
-  Robin Hood (1985):
-    tmdb: 114612
-    imdb: tt0786915
+  Robin Hood (2018):
+    tmdb: 375588
+    imdb: tt4532826
     audience_rating: 90
   Seven (1996):
     tmdb: 475009
