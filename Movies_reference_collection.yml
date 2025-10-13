@@ -4,13 +4,21 @@ templates:
 
 collections:
   Reference Audio:
-    trakt_list:
-      - https://trakt.tv/users/stupifier/lists/reference-audio?sort=rank,asc
+    tmdb_list:
+      - https://www.themoviedb.org/list/8563963-reference-audio
     summary: Get ready for a cinematic adventure where the power of sound takes center stage, transporting you on a captivating sonic journey like no other. These immersive soundscapes deliver an auditory experience that will leave you breathless and exhilarated.
     cache_builders: 0
     collection_order: custom
-    #        file_poster: /config/audio_poster3.jpg
     sort_title: "*101"
+    radarr_add_missing: true
+    radarr_search: true
+  Reference Video:
+    tmdb_list:
+      - https://www.themoviedb.org/list/8563964-reference-video
+    summary: Movies with standout video quality according to Shane Lee YouTube review series.
+    cache_builders: 0
+    collection_order: custom
+    sort_title: "*101.1"
     radarr_add_missing: true
     radarr_search: true
   FEL:
@@ -20,7 +28,7 @@ collections:
     collection_mode: show_items # To always display items
     collection_order: release # Order by release date
     sync_mode: sync # Sync items; remove those not matching the buildery
-    sort_title: "*101.1"
+    sort_title: "*101.2"
   MEL:
     libraries: Movies-4KHDR-dv
     radarr_taglist: mel
@@ -28,4 +36,4 @@ collections:
     collection_mode: show_items # To always display items
     collection_order: release # Order by release date
     sync_mode: sync # Sync items; remove those not matching the builder
-    sort_title: "*101.2"
+    sort_title: "*101.3"
