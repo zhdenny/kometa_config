@@ -1,12 +1,24 @@
 metadata:
+  10 Cloverfield Lane (2016):
+    match:
+      mapping_id: 333371
+    critic_rating: 0.1
+    audience_rating: 0.1
   1917 (2019):
     match:
       mapping_id: 530915
+    critic_rating: 0.1
     audience_rating: 9.8
   2012 (2009):
     match:
       mapping_id: 14161
     critic_rating: 9.0
+    audience_rating: 0.1
+  3:10 to Yuma (2007):
+    match:
+      mapping_id: 5176
+    critic_rating: 0.1
+    audience_rating: 0.1
   300 (2007):
     match:
       mapping_id: 1271
@@ -16,13 +28,16 @@ metadata:
     match:
       mapping_id: 700391
     critic_rating: 9.8
+    audience_rating: 0.1
   A Beautiful Planet (2016):
     match:
       mapping_id: 365997
+    critic_rating: 0.1
     audience_rating: 9.0
   A Complete Unknown (2024):
     match:
       mapping_id: 661539
+    critic_rating: 0.1
     audience_rating: 9.3
   The House with a Clock in Its Walls (2018):
     match:
@@ -37,25 +52,73 @@ metadata:
   'A Quiet Place: Day One (2024)':
     match:
       mapping_id: 762441
+    critic_rating: 0.1
     audience_rating: 9.1
   A Quiet Place Part II (2021):
     match:
       mapping_id: 520763
     critic_rating: 9.9
     audience_rating: 9.3
+  A Star Is Born (2018):
+    match:
+      mapping_id: 332562
+    critic_rating: 0.1
+    audience_rating: 0.1
   A Wrinkle in Time (2018):
     match:
       mapping_id: 407451
+    critic_rating: 0.1
     audience_rating: 9.2
   Abigail (2024):
     match:
       mapping_id: 1111873
     critic_rating: 9.0
+    audience_rating: 0.1
+  Across the Universe (2007):
+    match:
+      mapping_id: 4688
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Ad Astra (2019):
+    match:
+      mapping_id: 419704
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Air Force One (1997):
+    match:
+      mapping_id: 9772
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Aladdin (2019):
+    match:
+      mapping_id: 420817
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Alien (1979):
+    match:
+      mapping_id: 348
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Alien: Covenant (2017)':
+    match:
+      mapping_id: 126889
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Alien: Romulus (2024)':
     match:
       mapping_id: 945961
     critic_rating: 10.0
     audience_rating: 9.8
+  Aliens (1986):
+    match:
+      mapping_id: 679
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Alita: Battle Angel (2019)':
+    match:
+      mapping_id: 399579
+    critic_rating: 0.1
+    audience_rating: 0.1
   Ambulance (2022):
     match:
       mapping_id: 763285
@@ -64,11 +127,28 @@ metadata:
   American Assassin (2017):
     match:
       mapping_id: 415842
+    critic_rating: 0.1
     audience_rating: 9.0
+  American Psycho (2000):
+    match:
+      mapping_id: 1359
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Annihilation (2018):
+    match:
+      mapping_id: 300668
+    critic_rating: 0.1
+    audience_rating: 0.1
   Ant-Man (2015):
     match:
       mapping_id: 102899
+    critic_rating: 0.1
     audience_rating: 9.6
+  Ant-Man and the Wasp (2018):
+    match:
+      mapping_id: 363088
+    critic_rating: 0.1
+    audience_rating: 0.1
   Aquaman (2018):
     match:
       mapping_id: 297802
@@ -77,54 +157,143 @@ metadata:
   Army of the Dead (2021):
     match:
       mapping_id: 503736
+    critic_rating: 0.1
     audience_rating: 9.5
+  Atomic Blonde (2017):
+    match:
+      mapping_id: 341013
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Avatar: The Way of Water (2022)':
     match:
       mapping_id: 76600
+    critic_rating: 0.1
     audience_rating: 9.8
   'Avengers: Age of Ultron (2015)':
     match:
       mapping_id: 99861
     critic_rating: 9.0
+    audience_rating: 0.1
   'Avengers: Endgame (2019)':
     match:
       mapping_id: 299534
+    critic_rating: 0.1
     audience_rating: 9.2
   'Avengers: Infinity War (2018)':
     match:
       mapping_id: 299536
+    critic_rating: 0.1
     audience_rating: 9.8
+  Baby Driver (2017):
+    match:
+      mapping_id: 339403
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Back to the Future (1985):
+    match:
+      mapping_id: 105
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Back to the Future Part II (1989):
+    match:
+      mapping_id: 165
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Bad Boys (1995):
+    match:
+      mapping_id: 9737
+    critic_rating: 0.1
+    audience_rating: 0.1
   Bad Boys II (2003):
     match:
       mapping_id: 8961
+    critic_rating: 0.1
     audience_rating: 9.5
   Bad Boys for Life (2020):
     match:
       mapping_id: 38700
+    critic_rating: 0.1
     audience_rating: 9.8
   'Bad Boys: Ride or Die (2024)':
     match:
       mapping_id: 573435
     critic_rating: 9.9
     audience_rating: 10.0
+  Ballerina (2025):
+    match:
+      mapping_id: 541671
+    critic_rating: 0.1
+    audience_rating: 0.1
   Barbie (2023):
     match:
       mapping_id: 346698
+    critic_rating: 0.1
     audience_rating: 9.8
+  Batman and Robin (1949):
+    match:
+      mapping_id: 93560
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Batman Returns (1992):
+    match:
+      mapping_id: 364
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Baywatch (2017):
+    match:
+      mapping_id: 339846
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Beast (2018):
+    match:
+      mapping_id: 470918
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Beetlejuice (1988):
+    match:
+      mapping_id: 4011
+    critic_rating: 0.1
+    audience_rating: 0.1
   Beetlejuice Beetlejuice (2024):
     match:
       mapping_id: 917496
     critic_rating: 9.5
     audience_rating: 9.5
+  Birds of Prey (1985):
+    match:
+      mapping_id: 296919
+    critic_rating: 0.1
+    audience_rating: 0.1
   Black Adam (2022):
     match:
       mapping_id: 436270
     critic_rating: 9.7
     audience_rating: 9.8
+  Black Panther (2018):
+    match:
+      mapping_id: 284054
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Black Panther: Wakanda Forever (2022)':
+    match:
+      mapping_id: 505642
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Black Widow (2021):
+    match:
+      mapping_id: 497698
+    critic_rating: 0.1
+    audience_rating: 0.1
   Blade (1998):
     match:
       mapping_id: 36647
     critic_rating: 9.0
+    audience_rating: 0.1
+  Blade Runner (1982):
+    match:
+      mapping_id: 78
+    critic_rating: 0.1
+    audience_rating: 0.1
   Blade Runner 2049 (2017):
     match:
       mapping_id: 335984
@@ -134,6 +303,12 @@ metadata:
     match:
       mapping_id: 338762
     critic_rating: 9.4
+    audience_rating: 0.1
+  Bohemian Rhapsody (2018):
+    match:
+      mapping_id: 424694
+    critic_rating: 0.1
+    audience_rating: 0.1
   Borderlands (2024):
     match:
       mapping_id: 365177
@@ -144,58 +319,156 @@ metadata:
       mapping_id: 882059
     critic_rating: 9.5
     audience_rating: 9.4
+  Bram Stoker's Dracula (1992):
+    match:
+      mapping_id: 6114
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Braveheart (1995):
+    match:
+      mapping_id: 197
+    critic_rating: 0.1
+    audience_rating: 0.1
   Bullet Train (2022):
     match:
       mapping_id: 718930
+    critic_rating: 0.1
     audience_rating: 9.6
+  Bumblebee (2018):
+    match:
+      mapping_id: 424783
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Captain America: Civil War (2016)':
     match:
       mapping_id: 271110
+    critic_rating: 0.1
     audience_rating: 9.5
+  'Captain America: The First Avenger (2011)':
+    match:
+      mapping_id: 1771
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Captain America: Brave New World (2025)':
+    match:
+      mapping_id: 822119
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Captain America: The Winter Soldier (2014)':
     match:
       mapping_id: 100402
+    critic_rating: 0.1
     audience_rating: 9.0
+  Captain Marvel (2019):
+    match:
+      mapping_id: 299537
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Cars 3 (2017):
+    match:
+      mapping_id: 260514
+    critic_rating: 0.1
+    audience_rating: 0.1
   Chaos Walking (2021):
     match:
       mapping_id: 412656
     critic_rating: 9.7
     audience_rating: 9.5
+  Charlie's Angels (2000):
+    match:
+      mapping_id: 4327
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Cloverfield (2008):
+    match:
+      mapping_id: 7191
+    critic_rating: 0.1
+    audience_rating: 0.1
   Coco (2017):
     match:
       mapping_id: 354912
+    critic_rating: 0.1
     audience_rating: 9.0
+  Con Air (1997):
+    match:
+      mapping_id: 1701
+    critic_rating: 0.1
+    audience_rating: 0.1
   Constantine (2005):
     match:
       mapping_id: 561
+    critic_rating: 0.1
     audience_rating: 9.2
+  Crank (2006):
+    match:
+      mapping_id: 1948
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Creed II (2018):
+    match:
+      mapping_id: 480530
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Cruella (2021):
+    match:
+      mapping_id: 337404
+    critic_rating: 0.1
+    audience_rating: 0.1
   Darkest Hour (2017):
     match:
       mapping_id: 399404
+    critic_rating: 0.1
     audience_rating: 9.7
+  Dawn of the Planet of the Apes (2014):
+    match:
+      mapping_id: 119450
+    critic_rating: 0.1
+    audience_rating: 0.1
   Deadpool (2016):
     match:
       mapping_id: 293660
     critic_rating: 9.0
     audience_rating: 9.0
+  Deadpool 2 (2018):
+    match:
+      mapping_id: 383498
+    critic_rating: 0.1
+    audience_rating: 0.1
   Deadpool & Wolverine (2024):
     match:
       mapping_id: 533535
     critic_rating: 9.2
     audience_rating: 9.6
+  Death of a Unicorn (2025):
+    match:
+      mapping_id: 1153714
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Die Hard (1988):
+    match:
+      mapping_id: 562
+    critic_rating: 0.1
+    audience_rating: 0.1
   District 9 (2009):
     match:
       mapping_id: 17654
     critic_rating: 9.0
     audience_rating: 9.1
+  Doctor Strange (2016):
+    match:
+      mapping_id: 284052
+    critic_rating: 0.1
+    audience_rating: 0.1
   Doctor Strange in the Multiverse of Madness (2022):
     match:
       mapping_id: 453395
+    critic_rating: 0.1
     audience_rating: 9.4
   Dredd (2012):
     match:
       mapping_id: 49049
     critic_rating: 9.5
+    audience_rating: 0.1
   Dune (2021):
     match:
       mapping_id: 438631
@@ -210,6 +483,7 @@ metadata:
     match:
       mapping_id: 493529
     critic_rating: 9.9
+    audience_rating: 0.1
   Edge of Tomorrow (2014):
     match:
       mapping_id: 137113
@@ -225,38 +499,91 @@ metadata:
       mapping_id: 68724
     critic_rating: 9.0
     audience_rating: 9.5
+  Eternals (2021):
+    match:
+      mapping_id: 524434
+    critic_rating: 0.1
+    audience_rating: 0.1
   Evil Dead Rise (2023):
     match:
       mapping_id: 713704
     critic_rating: 9.9
+    audience_rating: 0.1
+  Ex Machina (2015):
+    match:
+      mapping_id: 264660
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Expendables 2 (2012):
     match:
       mapping_id: 76163
     critic_rating: 9.0
+    audience_rating: 0.1
   F1 (2025):
     match:
       mapping_id: 911430
+    critic_rating: 0.1
     audience_rating: 9.0
+  'The Fantastic 4: First Steps (2025)':
+    match:
+      mapping_id: 617126
+    critic_rating: 0.1
+    audience_rating: 0.1
   Fantastic Beasts and Where to Find Them (2016):
     match:
       mapping_id: 259316
     critic_rating: 9.0
+    audience_rating: 0.1
   'Fantastic Beasts: The Crimes of Grindelwald (2018)':
     match:
       mapping_id: 338952
+    critic_rating: 0.1
     audience_rating: 9.2
   'Fantastic Beasts: The Secrets of Dumbledore (2022)':
     match:
       mapping_id: 338953
+    critic_rating: 0.1
     audience_rating: 9.7
+  Fast & Furious 6 (2013):
+    match:
+      mapping_id: 82992
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Fast X (2023):
+    match:
+      mapping_id: 385687
+    critic_rating: 0.1
+    audience_rating: 0.1
   Final Destination Bloodlines (2025):
     match:
       mapping_id: 574475
+    critic_rating: 0.1
     audience_rating: 9.5
+  First Man (2018):
+    match:
+      mapping_id: 369972
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Flash Gordon (1980):
+    match:
+      mapping_id: 3604
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Ford v Ferrari (2019):
+    match:
+      mapping_id: 359724
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Forrest Gump (1994):
+    match:
+      mapping_id: 13
+    critic_rating: 0.1
+    audience_rating: 0.1
   Free Guy (2021):
     match:
       mapping_id: 550988
     critic_rating: 9.7
+    audience_rating: 0.1
   'Furiosa: A Mad Max Saga (2024)':
     match:
       mapping_id: 786892
@@ -266,10 +593,27 @@ metadata:
     match:
       mapping_id: 228150
     critic_rating: 9.5
+    audience_rating: 0.1
+  Fury FC 73 (2023):
+    match:
+      mapping_id: 1085336
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Gattaca (1997):
+    match:
+      mapping_id: 782
+    critic_rating: 0.1
+    audience_rating: 0.1
   Gemini Man (2019):
     match:
       mapping_id: 453405
+    critic_rating: 0.1
     audience_rating: 9.8
+  Ghost in the Shell (1995):
+    match:
+      mapping_id: 9323
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Ghostbusters: Afterlife (2021)':
     match:
       mapping_id: 425909
@@ -279,11 +623,32 @@ metadata:
     match:
       mapping_id: 967847
     critic_rating: 9.3
+    audience_rating: 0.1
+  Gladiator (2000):
+    match:
+      mapping_id: 98
+    critic_rating: 0.1
+    audience_rating: 0.1
   Gladiator II (2024):
     match:
       mapping_id: 558449
     critic_rating: 9.1
     audience_rating: 9.0
+  Glass (2019):
+    match:
+      mapping_id: 450465
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Godzilla (1998):
+    match:
+      mapping_id: 929
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Godzilla (2014):
+    match:
+      mapping_id: 124905
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Godzilla: King of the Monsters (2019)':
     match:
       mapping_id: 373571
@@ -299,64 +664,180 @@ metadata:
       mapping_id: 399566
     critic_rating: 9.8
     audience_rating: 9.6
+  'Godzilla x Kong: The New Empire (2024)':
+    match:
+      mapping_id: 823464
+    critic_rating: 0.1
+    audience_rating: 0.1
+  GoodFellas (1990):
+    match:
+      mapping_id: 769
+    critic_rating: 0.1
+    audience_rating: 0.1
   Gran Turismo (2023):
     match:
       mapping_id: 980489
     critic_rating: 9.1
+    audience_rating: 0.1
   Gravity (2013):
     match:
       mapping_id: 49047
     critic_rating: 10.0
     audience_rating: 10.0
+  Groundhog Day (1993):
+    match:
+      mapping_id: 137
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Guardians of the Galaxy (2014):
+    match:
+      mapping_id: 118340
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Guardians of the Galaxy Vol. 2 (2017):
+    match:
+      mapping_id: 283995
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Guardians of the Galaxy Vol. 3 (2023):
+    match:
+      mapping_id: 447365
+    critic_rating: 0.1
+    audience_rating: 0.1
   Hacksaw Ridge (2016):
     match:
       mapping_id: 324786
     critic_rating: 9.8
     audience_rating: 9.6
+  Halloween (1978):
+    match:
+      mapping_id: 948
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Harry Potter and the Deathly Hallows: Part 2 (2011)':
     match:
       mapping_id: 12445
     critic_rating: 10.0
+    audience_rating: 0.1
+  Heat (1995):
+    match:
+      mapping_id: 949
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Hellboy (2019):
+    match:
+      mapping_id: 456740
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Hostiles (2017):
+    match:
+      mapping_id: 384680
+    critic_rating: 0.1
+    audience_rating: 0.1
   How to Train Your Dragon (2025):
     match:
       mapping_id: 1087192
+    critic_rating: 0.1
     audience_rating: 9.6
   'How to Train Your Dragon: The Hidden World (2019)':
     match:
       mapping_id: 166428
+    critic_rating: 0.1
     audience_rating: 9.8
   Hunter Killer (2018):
     match:
       mapping_id: 399402
     critic_rating: 9.0
     audience_rating: 9.0
+  I Am Legend (2007):
+    match:
+      mapping_id: 6479
+    critic_rating: 0.1
+    audience_rating: 0.1
   IF (2024):
     match:
       mapping_id: 639720
+    critic_rating: 0.1
     audience_rating: 9.4
   Inception (2010):
     match:
       mapping_id: 27205
+    critic_rating: 0.1
     audience_rating: 9.0
+  Indiana Jones and the Dial of Destiny (2023):
+    match:
+      mapping_id: 335977
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Indiana Jones and the Kingdom of the Crystal Skull (2008):
+    match:
+      mapping_id: 217
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Indiana Jones and the Last Crusade (1989):
+    match:
+      mapping_id: 89
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Indiana Jones and the Temple of Doom (1984):
+    match:
+      mapping_id: 87
+    critic_rating: 0.1
+    audience_rating: 0.1
   Infinite (2021):
     match:
       mapping_id: 581726
+    critic_rating: 0.1
     audience_rating: 9.8
+  Inglourious Basterds (2009):
+    match:
+      mapping_id: 16869
+    critic_rating: 0.1
+    audience_rating: 0.1
   Inside Out 2 (2024):
     match:
       mapping_id: 1022789
+    critic_rating: 0.1
     audience_rating: 9.9
+  Interstellar (2014):
+    match:
+      mapping_id: 157336
+    critic_rating: 0.1
+    audience_rating: 0.1
+  It (2017):
+    match:
+      mapping_id: 346364
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Lokah Chapter 2:
+    match:
+      mapping_id: 1541123
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Jack Reacher (2012):
+    match:
+      mapping_id: 75780
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Jigsaw (2017):
+    match:
+      mapping_id: 298250
+    critic_rating: 0.1
+    audience_rating: 0.1
   John Wick (2014):
     match:
       mapping_id: 245891
     critic_rating: 9.0
+    audience_rating: 0.1
   'John Wick: Chapter 3 - Parabellum (2019)':
     match:
       mapping_id: 458156
-    audience_rating: 9.0
+    critic_rating: 0.1
+    audience_rating: 0.1
   'John Wick: Chapter 4 (2023)':
     match:
       mapping_id: 603692
+    critic_rating: 0.1
     audience_rating: 9.0
   'John Wick: Chapter 2 (2017)':
     match:
@@ -373,31 +854,141 @@ metadata:
       mapping_id: 889737
     critic_rating: 9.0
     audience_rating: 9.6
+  Jumanji (1995):
+    match:
+      mapping_id: 8844
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Jumanji: The Next Level (2019)':
+    match:
+      mapping_id: 512200
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Jumanji: Welcome to the Jungle (2017)':
+    match:
+      mapping_id: 353486
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Jungle Cruise (2021):
+    match:
+      mapping_id: 451048
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Jurassic Park (1993):
+    match:
+      mapping_id: 329
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Jurassic World (2015):
+    match:
+      mapping_id: 135397
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Jurassic World Dominion (2022):
+    match:
+      mapping_id: 507086
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Jurassic World Rebirth (2025):
+    match:
+      mapping_id: 1234821
+    critic_rating: 0.1
+    audience_rating: 0.1
   Justice League (2017):
     match:
       mapping_id: 141052
     critic_rating: 9.0
     audience_rating: 9.0
+  Kick-Ass (2010):
+    match:
+      mapping_id: 23483
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Kin (2018):
+    match:
+      mapping_id: 425505
+    critic_rating: 0.1
+    audience_rating: 0.1
+  King Arthur (2004):
+    match:
+      mapping_id: 9477
+    critic_rating: 0.1
+    audience_rating: 0.1
+  King Kong (2005):
+    match:
+      mapping_id: 254
+    critic_rating: 0.1
+    audience_rating: 0.1
   Kingdom of the Planet of the Apes (2024):
     match:
       mapping_id: 653346
+    critic_rating: 0.1
     audience_rating: 9.1
+  'Kingsman: The Golden Circle (2017)':
+    match:
+      mapping_id: 343668
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Knives Out (2019):
+    match:
+      mapping_id: 546554
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Knock at the Cabin (2023):
+    match:
+      mapping_id: 631842
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Kong: Skull Island (2017)':
     match:
       mapping_id: 293167
     critic_rating: 10.0
+    audience_rating: 0.1
+  Krampus (2015):
+    match:
+      mapping_id: 287903
+    critic_rating: 0.1
+    audience_rating: 0.1
   La La Land (2016):
     match:
       mapping_id: 313369
+    critic_rating: 0.1
     audience_rating: 9.0
+  Last Action Hero (1993):
+    match:
+      mapping_id: 9593
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Léon: The Professional (1994)':
     match:
       mapping_id: 101
+    critic_rating: 0.1
     audience_rating: 9.0
+  Lethal Weapon (1987):
+    match:
+      mapping_id: 941
+    critic_rating: 0.1
+    audience_rating: 0.1
   Life (2017):
     match:
       mapping_id: 395992
+    critic_rating: 0.1
     audience_rating: 9.0
+  Logan (2013):
+    match:
+      mapping_id: 229801
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Love and Monsters (2020):
+    match:
+      mapping_id: 590223
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Mad Max (1979):
+    match:
+      mapping_id: 9659
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Mad Max: Fury Road (2015)':
     match:
       mapping_id: 76341
@@ -408,39 +999,86 @@ metadata:
       mapping_id: 49521
     critic_rating: 9.8
     audience_rating: 9.6
+  Mary Poppins Returns (2018):
+    match:
+      mapping_id: 400650
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Master and Commander: The Far Side of the World (2003)':
+    match:
+      mapping_id: 8619
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Maze Runner: The Death Cure (2018)':
     match:
       mapping_id: 336843
+    critic_rating: 0.1
     audience_rating: 9.0
   M3GAN 2.0 (2025):
     match:
       mapping_id: 1071585
+    critic_rating: 0.1
     audience_rating: 9.5
+  Men in Black (1997):
+    match:
+      mapping_id: 607
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Men in Black II (2002):
+    match:
+      mapping_id: 608
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Men in Black 3 (2012):
+    match:
+      mapping_id: 41154
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Men in Black: International (2019)':
     match:
       mapping_id: 479455
+    critic_rating: 0.1
     audience_rating: 9.4
   Mickey 17 (2025):
     match:
       mapping_id: 696506
+    critic_rating: 0.1
     audience_rating: 9.6
   Midway (2019):
     match:
       mapping_id: 522162
     critic_rating: 10.0
+    audience_rating: 0.1
   A Minecraft Movie (2025):
     match:
       mapping_id: 950387
     critic_rating: 9.8
     audience_rating: 10.0
+  Mission Impossible (1971):
+    match:
+      mapping_id: 187339
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Mission: Impossible - Dead Reckoning Part One (2023)':
     match:
       mapping_id: 575264
+    critic_rating: 0.1
     audience_rating: 9.2
+  'Mission: Impossible - Fallout (2018)':
+    match:
+      mapping_id: 353081
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Mission: Impossible - Ghost Protocol (2011)':
     match:
       mapping_id: 56292
     critic_rating: 9.0
+    audience_rating: 0.1
+  'Mission: Impossible - Rogue Nation (2015)':
+    match:
+      mapping_id: 177677
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Mission: Impossible - The Final Reckoning (2025)':
     match:
       mapping_id: 575265
@@ -449,6 +1087,7 @@ metadata:
   Moana (2026):
     match:
       mapping_id: 1108427
+    critic_rating: 0.1
     audience_rating: 9.6
   Monster Hunter (2020):
     match:
@@ -459,6 +1098,7 @@ metadata:
     match:
       mapping_id: 406759
     critic_rating: 9.9
+    audience_rating: 0.1
   Morbius (2022):
     match:
       mapping_id: 526896
@@ -467,6 +1107,7 @@ metadata:
   Mortal Engines (2018):
     match:
       mapping_id: 428078
+    critic_rating: 0.1
     audience_rating: 10.0
   Mortal Kombat (2021):
     match:
@@ -478,18 +1119,51 @@ metadata:
       mapping_id: 762509
     critic_rating: 9.5
     audience_rating: 10.0
+  Murder on the Orient Express (2017):
+    match:
+      mapping_id: 392044
+    critic_rating: 0.1
+    audience_rating: 0.1
+  No Time to Die (2021):
+    match:
+      mapping_id: 370172
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Nope (2022):
+    match:
+      mapping_id: 762504
+    critic_rating: 0.1
+    audience_rating: 0.1
   Nosferatu (2024):
     match:
       mapping_id: 426063
     critic_rating: 9.9
+    audience_rating: 0.1
+  Oblivion (2013):
+    match:
+      mapping_id: 75612
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Ocean's 11 (2013):
+    match:
+      mapping_id: 1092996
+    critic_rating: 0.1
+    audience_rating: 0.1
   Old (2021):
     match:
       mapping_id: 631843
     critic_rating: 9.0
+    audience_rating: 0.1
   Once Upon a Time... in Hollywood (2019):
     match:
       mapping_id: 466272
+    critic_rating: 0.1
     audience_rating: 9.2
+  Oppenheimer (2023):
+    match:
+      mapping_id: 872585
+    critic_rating: 0.1
+    audience_rating: 0.1
   Pacific Rim (2013):
     match:
       mapping_id: 68726
@@ -500,53 +1174,171 @@ metadata:
       mapping_id: 268896
     critic_rating: 9.7
     audience_rating: 9.7
+  Panic Room (2002):
+    match:
+      mapping_id: 4547
+    critic_rating: 0.1
+    audience_rating: 0.1
   Passengers (2016):
     match:
       mapping_id: 274870
+    critic_rating: 0.1
     audience_rating: 9.5
+  Patriots Day (2016):
+    match:
+      mapping_id: 388399
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Pirates of the Caribbean: Dead Men Tell No Tales (2017)':
+    match:
+      mapping_id: 166426
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Pirates of the Caribbean: The Curse of the Black Pearl (2003)':
+    match:
+      mapping_id: 22
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Pitch Black (2000):
+    match:
+      mapping_id: 2787
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Pitch Perfect (2012):
+    match:
+      mapping_id: 114150
+    critic_rating: 0.1
+    audience_rating: 0.1
   Pitch Perfect 3 (2017):
     match:
       mapping_id: 353616
+    critic_rating: 0.1
     audience_rating: 9.0
+  Predator (1987):
+    match:
+      mapping_id: 106
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Predators (2010):
+    match:
+      mapping_id: 34851
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Prey (2022):
+    match:
+      mapping_id: 766507
+    critic_rating: 0.1
+    audience_rating: 0.1
   Prometheus (2012):
     match:
       mapping_id: 70981
     critic_rating: 9.0
+    audience_rating: 0.1
+  Push (2009):
+    match:
+      mapping_id: 13455
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Ralph Breaks the Internet (2018):
+    match:
+      mapping_id: 404368
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Rambo: Last Blood (2019)':
     match:
       mapping_id: 522938
+    critic_rating: 0.1
     audience_rating: 9.0
+  Rampage (2018):
+    match:
+      mapping_id: 427641
+    critic_rating: 0.1
+    audience_rating: 0.1
   Ready Player One (2018):
     match:
       mapping_id: 333339
     critic_rating: 9.5
     audience_rating: 9.0
+  Red One (2024):
+    match:
+      mapping_id: 845781
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Resident Evil: The Final Chapter (2016)':
     match:
       mapping_id: 173897
+    critic_rating: 0.1
     audience_rating: 10.0
   'Resident Evil: Welcome to Raccoon City (2021)':
     match:
       mapping_id: 460458
     critic_rating: 9.6
     audience_rating: 9.0
+  Rise of the Planet of the Apes (2011):
+    match:
+      mapping_id: 61791
+    critic_rating: 0.1
+    audience_rating: 0.1
   Robin Hood (2018):
     match:
       mapping_id: 375588
     critic_rating: 9.0
     audience_rating: 9.0
+  'Rogue One: A Star Wars Story (2016)':
+    match:
+      mapping_id: 330459
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Saw (2004):
+    match:
+      mapping_id: 176
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Scott Pilgrim vs. the World (2010):
+    match:
+      mapping_id: 22538
+    critic_rating: 0.1
+    audience_rating: 0.1
   Serenity (2005):
     match:
       mapping_id: 16320
     critic_rating: 9.0
+    audience_rating: 0.1
   Se7en (1995):
     match:
       mapping_id: 807
+    critic_rating: 0.1
     audience_rating: 9.4
+  Shang-Chi and the Legend of the Ten Rings (2021):
+    match:
+      mapping_id: 566525
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Shazam! (2019):
+    match:
+      mapping_id: 287947
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Shazam! Fury of the Gods (2023):
+    match:
+      mapping_id: 594767
+    critic_rating: 0.1
+    audience_rating: 0.1
   Sicario (2015):
     match:
       mapping_id: 273481
+    critic_rating: 0.1
     audience_rating: 10.0
+  'Sicario: Day of the Soldado (2018)':
+    match:
+      mapping_id: 400535
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Sing (2016):
+    match:
+      mapping_id: 335797
+    critic_rating: 0.1
+    audience_rating: 0.1
   Sinners (2025):
     match:
       mapping_id: 1233413
@@ -556,10 +1348,62 @@ metadata:
     match:
       mapping_id: 1100782
     critic_rating: 9.7
+    audience_rating: 0.1
+  'Solo: A Star Wars Story (2018)':
+    match:
+      mapping_id: 348350
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Sonic the Hedgehog (2020):
+    match:
+      mapping_id: 454626
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Sonic the Hedgehog 3 (2024):
+    match:
+      mapping_id: 939243
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Speed (1994):
+    match:
+      mapping_id: 1637
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Spider-Man (2002):
+    match:
+      mapping_id: 557
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Spider-Man 2 (2004):
+    match:
+      mapping_id: 558
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Spider-Man 3 (2007):
+    match:
+      mapping_id: 559
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Spider-Man: Across the Spider-Verse (2023)':
+    match:
+      mapping_id: 569094
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Spider-Man: Far From Home (2019)':
+    match:
+      mapping_id: 429617
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Spider-Man: Homecoming (2017)':
+    match:
+      mapping_id: 315635
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Spider-Man: Into the Spider-Verse (2018)':
     match:
       mapping_id: 324857
     critic_rating: 9.0
+    audience_rating: 0.1
   'Spider-Man: No Way Home (2021)':
     match:
       mapping_id: 634649
@@ -570,31 +1414,86 @@ metadata:
       mapping_id: 614199
     critic_rating: 9.5
     audience_rating: 9.0
+  Split (2017):
+    match:
+      mapping_id: 381288
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Star Wars: The Force Awakens (2015)':
+    match:
+      mapping_id: 140607
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Star Wars: The Last Jedi (2017)':
+    match:
+      mapping_id: 181808
+    critic_rating: 9.0
+    audience_rating: 0.1
+  'Star Wars: The Rise of Skywalker (2019)':
+    match:
+      mapping_id: 181812
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Starship Troopers (1997):
+    match:
+      mapping_id: 563
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Super Mario Bros. (1993):
+    match:
+      mapping_id: 9607
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Superman (2025):
+    match:
+      mapping_id: 1061474
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Superman (1978):
+    match:
+      mapping_id: 1924
+    critic_rating: 0.1
+    audience_rating: 0.1
   Teenage Mutant Ninja Turtles (2014):
     match:
       mapping_id: 98566
     critic_rating: 10.0
+    audience_rating: 0.1
   Tenet (2020):
     match:
       mapping_id: 577922
+    critic_rating: 0.1
     audience_rating: 9.5
   'Terminator: Dark Fate (2019)':
     match:
       mapping_id: 290859
     critic_rating: 9.5
+    audience_rating: 0.1
   Terminator Genisys (2015):
     match:
       mapping_id: 87101
     critic_rating: 10.0
     audience_rating: 9.2
+  The 40 Year Old Virgin (2005):
+    match:
+      mapping_id: 6957
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Accountant (2016):
+    match:
+      mapping_id: 302946
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Amazing Spider-Man 2 (2014):
     match:
       mapping_id: 102382
     critic_rating: 9.9
+    audience_rating: 0.1
   The Adam Project (2022):
     match:
       mapping_id: 696806
     critic_rating: 9.9
+    audience_rating: 0.1
   The Avengers (2012):
     match:
       mapping_id: 24428
@@ -604,67 +1503,182 @@ metadata:
     match:
       mapping_id: 414906
     critic_rating: 9.1
+    audience_rating: 0.1
   The Call of the Wild (2020):
     match:
       mapping_id: 481848
+    critic_rating: 0.1
     audience_rating: 9.3
+  The Commuter (2018):
+    match:
+      mapping_id: 399035
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Creator (2023):
+    match:
+      mapping_id: 670292
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Crow (2024):
     match:
       mapping_id: 957452
+    critic_rating: 0.1
     audience_rating: 9.2
+  The Dark Crystal (1982):
+    match:
+      mapping_id: 11639
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Dark Tower (2017):
     match:
       mapping_id: 353491
+    critic_rating: 0.1
     audience_rating: 9.0
+  The Equalizer (2014):
+    match:
+      mapping_id: 156022
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Fall Guy (2024):
+    match:
+      mapping_id: 746036
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Fast and the Furious (2001):
+    match:
+      mapping_id: 9799
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Fifth Element (1997):
+    match:
+      mapping_id: 18
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Flash (2023):
+    match:
+      mapping_id: 298618
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Goonies (1985):
+    match:
+      mapping_id: 9340
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Greatest Showman (2017):
     match:
       mapping_id: 316029
+    critic_rating: 0.1
     audience_rating: 9.0
+  The Grinch (2018):
+    match:
+      mapping_id: 360920
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Hurricane Heist (2018):
     match:
       mapping_id: 430040
     critic_rating: 9.0
+    audience_rating: 0.1
+  The Incredible Hulk (2008):
+    match:
+      mapping_id: 1724
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Incredibles (2004):
+    match:
+      mapping_id: 9806
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Invisible Man (2020):
     match:
       mapping_id: 570670
     critic_rating: 9.4
-  'Star Wars: The Last Jedi (2017)':
+    audience_rating: 0.1
+  The Lion King (1994):
     match:
-      mapping_id: 181808
-    critic_rating: 9.0
+      mapping_id: 8587
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Lion King (2019):
     match:
       mapping_id: 420818
+    critic_rating: 0.1
     audience_rating: 10.0
+  The Long Kiss Goodnight (1996):
+    match:
+      mapping_id: 11412
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Matrix (1999):
     match:
       mapping_id: 603
     critic_rating: 9.5
+    audience_rating: 0.1
   The Matrix Reloaded (2003):
     match:
       mapping_id: 604
     critic_rating: 9.5
+    audience_rating: 0.1
   The Matrix Resurrections (2021):
     match:
       mapping_id: 624860
+    critic_rating: 0.1
     audience_rating: 9.5
   The Matrix Revolutions (2003):
     match:
       mapping_id: 605
     critic_rating: 9.7
+    audience_rating: 0.1
   The Meg (2018):
     match:
       mapping_id: 345940
     critic_rating: 9.0
+    audience_rating: 0.1
+  The Mummy (1999):
+    match:
+      mapping_id: 564
+    critic_rating: 0.1
+    audience_rating: 0.1
   The New Mutants (2020):
     match:
       mapping_id: 340102
+    critic_rating: 0.1
     audience_rating: 9.0
+  The Nutcracker and the Four Realms (2018):
+    match:
+      mapping_id: 426543
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Predator (2018):
+    match:
+      mapping_id: 346910
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Remedy (2021):
+    match:
+      mapping_id: 875621
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Shallows (2016):
     match:
       mapping_id: 332567
     critic_rating: 9.3
     audience_rating: 9.5
+  The Shape of Water (2017):
+    match:
+      mapping_id: 399055
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Shawshank Redemption (1994):
+    match:
+      mapping_id: 278
+    critic_rating: 0.1
+    audience_rating: 0.1
+  The Sixth Sense (1999):
+    match:
+      mapping_id: 745
+    critic_rating: 0.1
+    audience_rating: 0.1
   The Suicide Squad (2021):
     match:
       mapping_id: 436969
@@ -673,90 +1687,215 @@ metadata:
   The Texas Chainsaw Massacre (2003):
     match:
       mapping_id: 9373
+    critic_rating: 0.1
     audience_rating: 9.0
   The Tomorrow War (2021):
     match:
       mapping_id: 588228
     critic_rating: 9.9
+    audience_rating: 0.1
   Thor (2011):
     match:
       mapping_id: 10195
+    critic_rating: 0.1
     audience_rating: 10.0
   'Thor: Love and Thunder (2022)':
     match:
       mapping_id: 616037
     critic_rating: 9.0
     audience_rating: 9.1
+  'Thor: Ragnarok (2017)':
+    match:
+      mapping_id: 284053
+    critic_rating: 0.1
+    audience_rating: 0.1
   Thunderbolts* (2025):
     match:
       mapping_id: 986056
+    critic_rating: 0.1
     audience_rating: 9.7
   Tomb Raider (2018):
     match:
       mapping_id: 338970
+    critic_rating: 0.1
     audience_rating: 9.0
   Tombstone (1993):
     match:
       mapping_id: 11969
+    critic_rating: 0.1
     audience_rating: 9.0
   'Top Gun: Maverick (2022)':
     match:
       mapping_id: 361743
     critic_rating: 9.1
     audience_rating: 9.9
+  Total Recall (1990):
+    match:
+      mapping_id: 861
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Transformers (2007):
+    match:
+      mapping_id: 1858
+    critic_rating: 0.1
+    audience_rating: 0.1
   'Transformers: Dark of the Moon (2011)':
     match:
       mapping_id: 38356
     critic_rating: 9.5
+    audience_rating: 0.1
   Transformers One (2024):
     match:
       mapping_id: 698687
+    critic_rating: 0.1
     audience_rating: 9.9
   'Transformers: Rise of the Beasts (2023)':
     match:
       mapping_id: 667538
+    critic_rating: 0.1
     audience_rating: 9.6
   'Transformers: The Last Knight (2017)':
     match:
       mapping_id: 335988
     critic_rating: 9.5
     audience_rating: 9.0
+  Trolls (2016):
+    match:
+      mapping_id: 136799
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'TRON: Legacy (2010)':
+    match:
+      mapping_id: 20526
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Tropic Thunder (2008):
+    match:
+      mapping_id: 7446
+    critic_rating: 0.1
+    audience_rating: 0.1
+  True Lies (2024):
+    match:
+      mapping_id: 1336208
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Twilight (2008):
+    match:
+      mapping_id: 8966
+    critic_rating: 0.1
+    audience_rating: 0.1
   Twister (1996):
     match:
       mapping_id: 664
     critic_rating: 9.6
+    audience_rating: 0.1
   Twisters (2024):
     match:
       mapping_id: 718821
     critic_rating: 9.8
     audience_rating: 9.0
+  Unbreakable (2000):
+    match:
+      mapping_id: 9741
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Uncharted (2022):
+    match:
+      mapping_id: 335787
+    critic_rating: 0.1
+    audience_rating: 0.1
   Underwater (2020):
     match:
       mapping_id: 443791
+    critic_rating: 0.1
     audience_rating: 9.2
+  'Underworld: Blood Wars (2016)':
+    match:
+      mapping_id: 346672
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Unsane (2018):
+    match:
+      mapping_id: 467660
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Valerian and the City of a Thousand Planets (2017):
+    match:
+      mapping_id: 339964
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Venom (2018):
+    match:
+      mapping_id: 335983
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Venom: Let There Be Carnage (2021)':
+    match:
+      mapping_id: 580489
+    critic_rating: 0.1
+    audience_rating: 0.1
+  'Venom: The Last Dance (2024)':
+    match:
+      mapping_id: 912649
+    critic_rating: 0.1
+    audience_rating: 0.1
   War for the Planet of the Apes (2017):
     match:
       mapping_id: 281338
+    critic_rating: 0.1
     audience_rating: 9.0
   Weapons (2025):
     match:
       mapping_id: 1078605
     critic_rating: 9.8
     audience_rating: 9.0
+  Whiplash (2014):
+    match:
+      mapping_id: 244786
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Wicked (2021):
+    match:
+      mapping_id: 834143
+    critic_rating: 0.1
+    audience_rating: 0.1
   Wolf Man (2025):
     match:
       mapping_id: 710295
     critic_rating: 9.8
+    audience_rating: 0.1
+  Wonder Woman (2017):
+    match:
+      mapping_id: 297762
+    critic_rating: 0.1
+    audience_rating: 0.1
+  Wonder Woman 1984 (2020):
+    match:
+      mapping_id: 464052
+    critic_rating: 0.1
+    audience_rating: 0.1
   Wonka (2023):
     match:
       mapping_id: 787699
+    critic_rating: 0.1
     audience_rating: 9.6
   'X-Men: Apocalypse (2016)':
     match:
       mapping_id: 246655
+    critic_rating: 0.1
     audience_rating: 9.5
+  Dark Phoenix (2019):
+    match:
+      mapping_id: 320288
+    critic_rating: 0.1
+    audience_rating: 0.1
   Zack Snyder's Justice League (2021):
     match:
       mapping_id: 791373
     critic_rating: 9.5
     audience_rating: 9.4
+  Zodiac (2007):
+    match:
+      mapping_id: 1949
+    critic_rating: 0.1
+    audience_rating: 0.1
