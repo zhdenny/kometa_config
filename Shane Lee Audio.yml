@@ -1,417 +1,417 @@
 metadata:
   2012 (2009):
-    tmdb: 14161
-    imdb: tt1190080
+    match:
+      mapping_id: 14161
     critic_rating: 9.0
   300 (2007):
-    tmdb: 1271
-    imdb: tt0416449
+    match:
+      mapping_id: 1271
     critic_rating: 9.6
   65 (2023):
-    tmdb: 700391
-    imdb: tt12261776
+    match:
+      mapping_id: 700391
     critic_rating: 9.8
   The House with a Clock in Its Walls (2018):
-    tmdb: 463821
-    imdb: tt2119543
+    match:
+      mapping_id: 463821
     critic_rating: 10.0
   A Quiet Place (2018):
-    tmdb: 447332
-    imdb: tt6644200
+    match:
+      mapping_id: 447332
     critic_rating: 10.0
   A Quiet Place Part II (2021):
-    tmdb: 520763
-    imdb: tt8332922
+    match:
+      mapping_id: 520763
     critic_rating: 9.9
   Abigail (2024):
-    tmdb: 1111873
-    imdb: tt27489557
+    match:
+      mapping_id: 1111873
     critic_rating: 9.0
   'Alien: Romulus (2024)':
-    tmdb: 945961
-    imdb: tt18412256
+    match:
+      mapping_id: 945961
     critic_rating: 10.0
   Ambulance (2022):
-    tmdb: 763285
-    imdb: tt4998632
+    match:
+      mapping_id: 763285
     critic_rating: 9.9
   Aquaman (2018):
-    tmdb: 297802
-    imdb: tt1477834
+    match:
+      mapping_id: 297802
     critic_rating: 9.9
   'Avengers: Age of Ultron (2015)':
-    tmdb: 99861
-    imdb: tt2395427
+    match:
+      mapping_id: 99861
     critic_rating: 9.0
   'Bad Boys: Ride or Die (2024)':
-    tmdb: 573435
-    imdb: tt4919268
+    match:
+      mapping_id: 573435
     critic_rating: 9.9
   Beetlejuice Beetlejuice (2024):
-    tmdb: 917496
-    imdb: tt2049403
+    match:
+      mapping_id: 917496
     critic_rating: 9.5
   Black Adam (2022):
-    tmdb: 436270
-    imdb: tt6443346
+    match:
+      mapping_id: 436270
     critic_rating: 9.7
   Blade (1998):
-    tmdb: 36647
-    imdb: tt0120611
+    match:
+      mapping_id: 36647
     critic_rating: 9.0
   Blade Runner 2049 (2017):
-    tmdb: 335984
-    imdb: tt1856101
+    match:
+      mapping_id: 335984
     critic_rating: 10.0
   Bloodshot (2020):
-    tmdb: 338762
-    imdb: tt1634106
+    match:
+      mapping_id: 338762
     critic_rating: 9.4
   Borderlands (2024):
-    tmdb: 365177
-    imdb: tt4978420
+    match:
+      mapping_id: 365177
     critic_rating: 9.0
   Boy Kills World (2024):
-    tmdb: 882059
-    imdb: tt13923084
+    match:
+      mapping_id: 882059
     critic_rating: 9.5
   Chaos Walking (2021):
-    tmdb: 412656
-    imdb: tt2076822
+    match:
+      mapping_id: 412656
     critic_rating: 9.7
   Deadpool (2016):
-    tmdb: 293660
-    imdb: tt1431045
+    match:
+      mapping_id: 293660
     critic_rating: 9.0
   Deadpool & Wolverine (2024):
-    tmdb: 533535
-    imdb: tt6263850
+    match:
+      mapping_id: 533535
     critic_rating: 9.2
   District 9 (2009):
-    tmdb: 17654
-    imdb: tt1136608
+    match:
+      mapping_id: 17654
     critic_rating: 9.0
   Dredd (2012):
-    tmdb: 49049
-    imdb: tt1343727
+    match:
+      mapping_id: 49049
     critic_rating: 9.5
   Dune (2021):
-    tmdb: 438631
-    imdb: tt1160419
+    match:
+      mapping_id: 438631
     critic_rating: 9.7
   'Dune: Part Two (2024)':
-    tmdb: 693134
-    imdb: tt15239678
+    match:
+      mapping_id: 693134
     critic_rating: 10.0
   'Dungeons & Dragons: Honor Among Thieves (2023)':
-    tmdb: 493529
-    imdb: tt2906216
+    match:
+      mapping_id: 493529
     critic_rating: 9.9
   Edge of Tomorrow (2014):
-    tmdb: 137113
-    imdb: tt1631867
+    match:
+      mapping_id: 137113
     critic_rating: 9.8
   Elvis (2022):
-    tmdb: 614934
-    imdb: tt3704428
+    match:
+      mapping_id: 614934
     critic_rating: 9.2
   Elysium (2013):
-    tmdb: 68724
-    imdb: tt1535108
+    match:
+      mapping_id: 68724
     critic_rating: 9.0
   Evil Dead Rise (2023):
-    tmdb: 713704
-    imdb: tt13345606
+    match:
+      mapping_id: 713704
     critic_rating: 9.9
   The Expendables 2 (2012):
-    tmdb: 76163
-    imdb: tt1764651
+    match:
+      mapping_id: 76163
     critic_rating: 9.0
   Fantastic Beasts and Where to Find Them (2016):
-    tmdb: 259316
-    imdb: tt3183660
+    match:
+      mapping_id: 259316
     critic_rating: 9.0
   Free Guy (2021):
-    tmdb: 550988
-    imdb: tt6264654
+    match:
+      mapping_id: 550988
     critic_rating: 9.7
   'Furiosa: A Mad Max Saga (2024)':
-    tmdb: 786892
-    imdb: tt12037194
+    match:
+      mapping_id: 786892
     critic_rating: 9.9
   Fury (2014):
-    tmdb: 228150
-    imdb: tt2713180
+    match:
+      mapping_id: 228150
     critic_rating: 9.5
   'Ghostbusters: Afterlife (2021)':
-    tmdb: 425909
-    imdb: tt4513678
+    match:
+      mapping_id: 425909
     critic_rating: 9.1
   'Ghostbusters: Frozen Empire (2024)':
-    tmdb: 967847
-    imdb: tt21235248
+    match:
+      mapping_id: 967847
     critic_rating: 9.3
   Gladiator II (2024):
-    tmdb: 558449
-    imdb: tt9218128
+    match:
+      mapping_id: 558449
     critic_rating: 9.1
   'Godzilla: King of the Monsters (2019)':
-    tmdb: 373571
-    imdb: tt3741700
+    match:
+      mapping_id: 373571
     critic_rating: 10.0
   Godzilla Minus One (2023):
-    tmdb: 940721
-    imdb: tt23289160
+    match:
+      mapping_id: 940721
     critic_rating: 9.6
   Godzilla vs. Kong (2021):
-    tmdb: 399566
-    imdb: tt5034838
+    match:
+      mapping_id: 399566
     critic_rating: 9.8
   Gran Turismo (2023):
-    tmdb: 980489
-    imdb: tt4495098
+    match:
+      mapping_id: 980489
     critic_rating: 9.1
   Gravity (2013):
-    tmdb: 49047
-    imdb: tt1454468
+    match:
+      mapping_id: 49047
     critic_rating: 10.0
   Hacksaw Ridge (2016):
-    tmdb: 324786
-    imdb: tt2119532
+    match:
+      mapping_id: 324786
     critic_rating: 9.8
   'Harry Potter and the Deathly Hallows: Part 2 (2011)':
-    tmdb: 12445
-    imdb: tt1201607
+    match:
+      mapping_id: 12445
     critic_rating: 10.0
   Hunter Killer (2018):
-    tmdb: 399402
-    imdb: tt1846589
+    match:
+      mapping_id: 399402
     critic_rating: 9.0
   John Wick (2014):
-    tmdb: 245891
-    imdb: tt2911666
+    match:
+      mapping_id: 245891
     critic_rating: 9.0
   'John Wick: Chapter 2 (2017)':
-    tmdb: 324552
-    imdb: tt4425200
+    match:
+      mapping_id: 324552
     critic_rating: 9.0
   Joker (2019):
-    tmdb: 475557
-    imdb: tt7286456
+    match:
+      mapping_id: 475557
     critic_rating: 9.4
   'Joker: Folie à Deux (2024)':
-    tmdb: 889737
-    imdb: tt11315808
+    match:
+      mapping_id: 889737
     critic_rating: 9.0
   Justice League (2017):
-    tmdb: 141052
-    imdb: tt0974015
+    match:
+      mapping_id: 141052
     critic_rating: 9.0
   'Kong: Skull Island (2017)':
-    tmdb: 293167
-    imdb: tt3731562
+    match:
+      mapping_id: 293167
     critic_rating: 10.0
   'Mad Max: Fury Road (2015)':
-    tmdb: 76341
-    imdb: tt1392190
+    match:
+      mapping_id: 76341
     critic_rating: 9.9
   Man of Steel (2013):
-    tmdb: 49521
-    imdb: tt0770828
+    match:
+      mapping_id: 49521
     critic_rating: 9.8
   Midway (2019):
-    tmdb: 522162
-    imdb: tt6924650
+    match:
+      mapping_id: 522162
     critic_rating: 10.0
   A Minecraft Movie (2025):
-    tmdb: 950387
-    imdb: tt3566834
+    match:
+      mapping_id: 950387
     critic_rating: 9.8
   'Mission: Impossible - Ghost Protocol (2011)':
-    tmdb: 56292
-    imdb: tt1229238
+    match:
+      mapping_id: 56292
     critic_rating: 9.0
   'Mission: Impossible - The Final Reckoning (2025)':
-    tmdb: 575265
-    imdb: tt9603208
+    match:
+      mapping_id: 575265
     critic_rating: 9.1
   Monster Hunter (2020):
-    tmdb: 458576
-    imdb: tt6475714
+    match:
+      mapping_id: 458576
     critic_rating: 9.0
   Moonfall (2022):
-    tmdb: 406759
-    imdb: tt5834426
+    match:
+      mapping_id: 406759
     critic_rating: 9.9
   Morbius (2022):
-    tmdb: 526896
-    imdb: tt5108870
+    match:
+      mapping_id: 526896
     critic_rating: 9.7
   Mortal Kombat (2021):
-    tmdb: 460465
-    imdb: tt0293429
+    match:
+      mapping_id: 460465
     critic_rating: 9.3
   'Mufasa: The Lion King (2024)':
-    tmdb: 762509
-    imdb: tt13186482
+    match:
+      mapping_id: 762509
     critic_rating: 9.5
   Nosferatu (2024):
-    tmdb: 426063
-    imdb: tt5040012
+    match:
+      mapping_id: 426063
     critic_rating: 9.9
   Old (2021):
-    tmdb: 631843
-    imdb: tt10954652
+    match:
+      mapping_id: 631843
     critic_rating: 9.0
   Pacific Rim (2013):
-    tmdb: 68726
-    imdb: tt1663662
+    match:
+      mapping_id: 68726
     critic_rating: 10.0
   'Pacific Rim: Uprising (2018)':
-    tmdb: 268896
-    imdb: tt2557478
+    match:
+      mapping_id: 268896
     critic_rating: 9.7
   Prometheus (2012):
-    tmdb: 70981
-    imdb: tt1446714
+    match:
+      mapping_id: 70981
     critic_rating: 9.0
   Ready Player One (2018):
-    tmdb: 333339
-    imdb: tt1677720
+    match:
+      mapping_id: 333339
     critic_rating: 9.5
   'Resident Evil: Welcome to Raccoon City (2021)':
-    tmdb: 460458
-    imdb: tt6920084
+    match:
+      mapping_id: 460458
     critic_rating: 9.6
   Robin Hood (2018):
-    tmdb: 375588
-    imdb: tt4532826
+    match:
+      mapping_id: 375588
     critic_rating: 9.0
   Serenity (2005):
-    tmdb: 16320
-    imdb: tt0379786
+    match:
+      mapping_id: 16320
     critic_rating: 9.0
   Sinners (2025):
-    tmdb: 1233413
-    imdb: tt31193180
+    match:
+      mapping_id: 1233413
     critic_rating: 9.5
   Smile 2 (2024):
-    tmdb: 1100782
-    imdb: tt29268110
+    match:
+      mapping_id: 1100782
     critic_rating: 9.7
   'Spider-Man: Into the Spider-Verse (2018)':
-    tmdb: 324857
-    imdb: tt4633694
+    match:
+      mapping_id: 324857
     critic_rating: 9.0
   'Spider-Man: No Way Home (2021)':
-    tmdb: 634649
-    imdb: tt10872600
+    match:
+      mapping_id: 634649
     critic_rating: 9.0
   Spiral (2019):
-    tmdb: 614199
-    imdb: tt9247314
+    match:
+      mapping_id: 614199
     critic_rating: 9.5
   Teenage Mutant Ninja Turtles (2014):
-    tmdb: 98566
-    imdb: tt1291150
+    match:
+      mapping_id: 98566
     critic_rating: 10.0
   'Terminator: Dark Fate (2019)':
-    tmdb: 290859
-    imdb: tt6450804
+    match:
+      mapping_id: 290859
     critic_rating: 9.5
   Terminator Genisys (2015):
-    tmdb: 87101
-    imdb: tt1340138
+    match:
+      mapping_id: 87101
     critic_rating: 10.0
   The Amazing Spider-Man 2 (2014):
-    tmdb: 102382
-    imdb: tt1872181
+    match:
+      mapping_id: 102382
     critic_rating: 9.9
   The Adam Project (2022):
-    tmdb: 696806
-    imdb: tt2463208
+    match:
+      mapping_id: 696806
     critic_rating: 9.9
   The Avengers (2012):
-    tmdb: 24428
-    imdb: tt0848228
+    match:
+      mapping_id: 24428
     critic_rating: 9.6
   The Batman (2022):
-    tmdb: 414906
-    imdb: tt1877830
+    match:
+      mapping_id: 414906
     critic_rating: 9.1
   The Hurricane Heist (2018):
-    tmdb: 430040
-    imdb: tt5360952
+    match:
+      mapping_id: 430040
     critic_rating: 9.0
   The Invisible Man (2020):
-    tmdb: 570670
-    imdb: tt1051906
+    match:
+      mapping_id: 570670
     critic_rating: 9.4
   'Star Wars: The Last Jedi (2017)':
-    tmdb: 181808
-    imdb: tt2527336
+    match:
+      mapping_id: 181808
     critic_rating: 9.0
   The Matrix (1999):
-    tmdb: 603
-    imdb: tt0133093
+    match:
+      mapping_id: 603
     critic_rating: 9.5
   The Matrix Reloaded (2003):
-    tmdb: 604
-    imdb: tt0234215
+    match:
+      mapping_id: 604
     critic_rating: 9.5
   The Matrix Revolutions (2003):
-    tmdb: 605
-    imdb: tt0242653
+    match:
+      mapping_id: 605
     critic_rating: 9.7
   The Meg (2018):
-    tmdb: 345940
-    imdb: tt4779682
+    match:
+      mapping_id: 345940
     critic_rating: 9.0
   The Shallows (2016):
-    tmdb: 332567
-    imdb: tt4052882
+    match:
+      mapping_id: 332567
     critic_rating: 9.3
   The Suicide Squad (2021):
-    tmdb: 436969
-    imdb: tt6334354
+    match:
+      mapping_id: 436969
     critic_rating: 9.7
   The Tomorrow War (2021):
-    tmdb: 588228
-    imdb: tt9777666
+    match:
+      mapping_id: 588228
     critic_rating: 9.9
   'Thor: Love and Thunder (2022)':
-    tmdb: 616037
-    imdb: tt10648342
+    match:
+      mapping_id: 616037
     critic_rating: 9.0
   'Top Gun: Maverick (2022)':
-    tmdb: 361743
-    imdb: tt1745960
+    match:
+      mapping_id: 361743
     critic_rating: 9.1
   'Transformers: Dark of the Moon (2011)':
-    tmdb: 38356
-    imdb: tt1399103
+    match:
+      mapping_id: 38356
     critic_rating: 9.5
   'Transformers: The Last Knight (2017)':
-    tmdb: 335988
-    imdb: tt3371366
+    match:
+      mapping_id: 335988
     critic_rating: 9.5
   Twister (1996):
-    tmdb: 664
-    imdb: tt0117998
+    match:
+      mapping_id: 664
     critic_rating: 9.6
   Twisters (2024):
-    tmdb: 718821
-    imdb: tt12584954
+    match:
+      mapping_id: 718821
     critic_rating: 9.8
   Weapons (2025):
-    tmdb: 1078605
-    imdb: tt26581740
+    match:
+      mapping_id: 1078605
     critic_rating: 9.8
   Wolf Man (2025):
-    tmdb: 710295
-    imdb: tt4216984
+    match:
+      mapping_id: 710295
     critic_rating: 9.8
   Zack Snyder's Justice League (2021):
-    tmdb: 791373
-    imdb: tt12361974
+    match:
+      mapping_id: 791373
     critic_rating: 9.5

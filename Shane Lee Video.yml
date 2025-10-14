@@ -1,533 +1,533 @@
 metadata:
   1917 (2019):
-    tmdb: 530915
-    imdb: tt8579674
+    match:
+      mapping_id: 530915
     audience_rating: 9.8
   300 (2007):
-    tmdb: 1271
-    imdb: tt0416449
+    match:
+      mapping_id: 1271
     audience_rating: 9.3
   A Beautiful Planet (2016):
-    tmdb: 365997
-    imdb: tt2800050
+    match:
+      mapping_id: 365997
     audience_rating: 9.0
   A Complete Unknown (2024):
-    tmdb: 661539
-    imdb: tt11563598
+    match:
+      mapping_id: 661539
     audience_rating: 9.3
   The House with a Clock in Its Walls (2018):
-    tmdb: 463821
-    imdb: tt2119543
+    match:
+      mapping_id: 463821
     audience_rating: 9.5
   A Quiet Place (2018):
-    tmdb: 447332
-    imdb: tt6644200
+    match:
+      mapping_id: 447332
     audience_rating: 9.2
   'A Quiet Place: Day One (2024)':
-    tmdb: 762441
-    imdb: tt13433802
+    match:
+      mapping_id: 762441
     audience_rating: 9.1
   A Quiet Place Part II (2021):
-    tmdb: 520763
-    imdb: tt8332922
+    match:
+      mapping_id: 520763
     audience_rating: 9.3
   A Wrinkle in Time (2018):
-    tmdb: 407451
-    imdb: tt1620680
+    match:
+      mapping_id: 407451
     audience_rating: 9.2
   'Alien: Romulus (2024)':
-    tmdb: 945961
-    imdb: tt18412256
+    match:
+      mapping_id: 945961
     audience_rating: 9.8
   Ambulance (2022):
-    tmdb: 763285
-    imdb: tt4998632
+    match:
+      mapping_id: 763285
     audience_rating: 9.8
   American Assassin (2017):
-    tmdb: 415842
-    imdb: tt1961175
+    match:
+      mapping_id: 415842
     audience_rating: 9.0
   Ant-Man (2015):
-    tmdb: 102899
-    imdb: tt0478970
+    match:
+      mapping_id: 102899
     audience_rating: 9.6
   Aquaman (2018):
-    tmdb: 297802
-    imdb: tt1477834
+    match:
+      mapping_id: 297802
     audience_rating: 9.9
   Army of the Dead (2021):
-    tmdb: 503736
-    imdb: tt0993840
+    match:
+      mapping_id: 503736
     audience_rating: 9.5
   'Avatar: The Way of Water (2022)':
-    tmdb: 76600
-    imdb: tt1630029
+    match:
+      mapping_id: 76600
     audience_rating: 9.8
   'Avengers: Endgame (2019)':
-    tmdb: 299534
-    imdb: tt4154796
+    match:
+      mapping_id: 299534
     audience_rating: 9.2
   'Avengers: Infinity War (2018)':
-    tmdb: 299536
-    imdb: tt4154756
+    match:
+      mapping_id: 299536
     audience_rating: 9.8
   Bad Boys II (2003):
-    tmdb: 8961
-    imdb: tt0172156
+    match:
+      mapping_id: 8961
     audience_rating: 9.5
   Bad Boys for Life (2020):
-    tmdb: 38700
-    imdb: tt1502397
+    match:
+      mapping_id: 38700
     audience_rating: 9.8
   'Bad Boys: Ride or Die (2024)':
-    tmdb: 573435
-    imdb: tt4919268
+    match:
+      mapping_id: 573435
     audience_rating: 10.0
   Barbie (2023):
-    tmdb: 346698
-    imdb: tt1517268
+    match:
+      mapping_id: 346698
     audience_rating: 9.8
   Beetlejuice Beetlejuice (2024):
-    tmdb: 917496
-    imdb: tt2049403
+    match:
+      mapping_id: 917496
     audience_rating: 9.5
   Black Adam (2022):
-    tmdb: 436270
-    imdb: tt6443346
+    match:
+      mapping_id: 436270
     audience_rating: 9.8
   Blade Runner 2049 (2017):
-    tmdb: 335984
-    imdb: tt1856101
+    match:
+      mapping_id: 335984
     audience_rating: 10.0
   Borderlands (2024):
-    tmdb: 365177
-    imdb: tt4978420
+    match:
+      mapping_id: 365177
     audience_rating: 10.0
   Boy Kills World (2024):
-    tmdb: 882059
-    imdb: tt13923084
+    match:
+      mapping_id: 882059
     audience_rating: 9.4
   Bullet Train (2022):
-    tmdb: 718930
-    imdb: tt12593682
+    match:
+      mapping_id: 718930
     audience_rating: 9.6
   'Captain America: Civil War (2016)':
-    tmdb: 271110
-    imdb: tt3498820
+    match:
+      mapping_id: 271110
     audience_rating: 9.5
   'Captain America: The Winter Soldier (2014)':
-    tmdb: 100402
-    imdb: tt1843866
+    match:
+      mapping_id: 100402
     audience_rating: 9.0
   Chaos Walking (2021):
-    tmdb: 412656
-    imdb: tt2076822
+    match:
+      mapping_id: 412656
     audience_rating: 9.5
   Coco (2017):
-    tmdb: 354912
-    imdb: tt2380307
+    match:
+      mapping_id: 354912
     audience_rating: 9.0
   Constantine (2005):
-    tmdb: 561
-    imdb: tt0360486
+    match:
+      mapping_id: 561
     audience_rating: 9.2
   Darkest Hour (2017):
-    tmdb: 399404
-    imdb: tt4555426
+    match:
+      mapping_id: 399404
     audience_rating: 9.7
   Deadpool (2016):
-    tmdb: 293660
-    imdb: tt1431045
+    match:
+      mapping_id: 293660
     audience_rating: 9.0
   Deadpool & Wolverine (2024):
-    tmdb: 533535
-    imdb: tt6263850
+    match:
+      mapping_id: 533535
     audience_rating: 9.6
   District 9 (2009):
-    tmdb: 17654
-    imdb: tt1136608
+    match:
+      mapping_id: 17654
     audience_rating: 9.1
   Doctor Strange in the Multiverse of Madness (2022):
-    tmdb: 453395
-    imdb: tt9419884
+    match:
+      mapping_id: 453395
     audience_rating: 9.4
   Dune (2021):
-    tmdb: 438631
-    imdb: tt1160419
+    match:
+      mapping_id: 438631
     audience_rating: 9.5
   'Dune: Part Two (2024)':
-    tmdb: 693134
-    imdb: tt15239678
+    match:
+      mapping_id: 693134
     audience_rating: 10.0
   Edge of Tomorrow (2014):
-    tmdb: 137113
-    imdb: tt1631867
+    match:
+      mapping_id: 137113
     audience_rating: 9.2
   Elvis (2022):
-    tmdb: 614934
-    imdb: tt3704428
+    match:
+      mapping_id: 614934
     audience_rating: 9.7
   Elysium (2013):
-    tmdb: 68724
-    imdb: tt1535108
+    match:
+      mapping_id: 68724
     audience_rating: 9.5
   F1 (2025):
-    tmdb: 911430
-    imdb: tt16311594
+    match:
+      mapping_id: 911430
     audience_rating: 9.0
   'Fantastic Beasts: The Crimes of Grindelwald (2018)':
-    tmdb: 338952
-    imdb: tt4123430
+    match:
+      mapping_id: 338952
     audience_rating: 9.2
   'Fantastic Beasts: The Secrets of Dumbledore (2022)':
-    tmdb: 338953
-    imdb: tt4123432
+    match:
+      mapping_id: 338953
     audience_rating: 9.7
   Final Destination Bloodlines (2025):
-    tmdb: 574475
-    imdb: tt9619824
+    match:
+      mapping_id: 574475
     audience_rating: 9.5
   'Furiosa: A Mad Max Saga (2024)':
-    tmdb: 786892
-    imdb: tt12037194
+    match:
+      mapping_id: 786892
     audience_rating: 9.9
   Gemini Man (2019):
-    tmdb: 453405
-    imdb: tt1025100
+    match:
+      mapping_id: 453405
     audience_rating: 9.8
   'Ghostbusters: Afterlife (2021)':
-    tmdb: 425909
-    imdb: tt4513678
+    match:
+      mapping_id: 425909
     audience_rating: 9.3
   Gladiator II (2024):
-    tmdb: 558449
-    imdb: tt9218128
+    match:
+      mapping_id: 558449
     audience_rating: 9.0
   'Godzilla: King of the Monsters (2019)':
-    tmdb: 373571
-    imdb: tt3741700
+    match:
+      mapping_id: 373571
     audience_rating: 9.0
   Godzilla Minus One (2023):
-    tmdb: 940721
-    imdb: tt23289160
+    match:
+      mapping_id: 940721
     audience_rating: 9.1
   Godzilla vs. Kong (2021):
-    tmdb: 399566
-    imdb: tt5034838
+    match:
+      mapping_id: 399566
     audience_rating: 9.6
   Gravity (2013):
-    tmdb: 49047
-    imdb: tt1454468
+    match:
+      mapping_id: 49047
     audience_rating: 10.0
   Hacksaw Ridge (2016):
-    tmdb: 324786
-    imdb: tt2119532
+    match:
+      mapping_id: 324786
     audience_rating: 9.6
   How to Train Your Dragon (2025):
-    tmdb: 1087192
-    imdb: tt26743210
+    match:
+      mapping_id: 1087192
     audience_rating: 9.6
   'How to Train Your Dragon: The Hidden World (2019)':
-    tmdb: 166428
-    imdb: tt2386490
+    match:
+      mapping_id: 166428
     audience_rating: 9.8
   Hunter Killer (2018):
-    tmdb: 399402
-    imdb: tt1846589
+    match:
+      mapping_id: 399402
     audience_rating: 9.0
   IF (2024):
-    tmdb: 639720
-    imdb: tt11152168
+    match:
+      mapping_id: 639720
     audience_rating: 9.4
   Inception (2010):
-    tmdb: 27205
-    imdb: tt1375666
+    match:
+      mapping_id: 27205
     audience_rating: 9.0
   Infinite (2021):
-    tmdb: 581726
-    imdb: tt6654210
+    match:
+      mapping_id: 581726
     audience_rating: 9.8
   Inside Out 2 (2024):
-    tmdb: 1022789
-    imdb: tt22022452
+    match:
+      mapping_id: 1022789
     audience_rating: 9.9
   'John Wick: Chapter 3 - Parabellum (2019)':
-    tmdb: 458156
-    imdb: tt6146586
+    match:
+      mapping_id: 458156
     audience_rating: 9.0
   'John Wick: Chapter 4 (2023)':
-    tmdb: 603692
-    imdb: tt10366206
+    match:
+      mapping_id: 603692
     audience_rating: 9.0
   'John Wick: Chapter 2 (2017)':
-    tmdb: 324552
-    imdb: tt4425200
+    match:
+      mapping_id: 324552
     audience_rating: 9.0
   Joker (2019):
-    tmdb: 475557
-    imdb: tt7286456
+    match:
+      mapping_id: 475557
     audience_rating: 9.6
   'Joker: Folie à Deux (2024)':
-    tmdb: 889737
-    imdb: tt11315808
+    match:
+      mapping_id: 889737
     audience_rating: 9.6
   Justice League (2017):
-    tmdb: 141052
-    imdb: tt0974015
+    match:
+      mapping_id: 141052
     audience_rating: 9.0
   Kingdom of the Planet of the Apes (2024):
-    tmdb: 653346
-    imdb: tt11389872
+    match:
+      mapping_id: 653346
     audience_rating: 9.1
   La La Land (2016):
-    tmdb: 313369
-    imdb: tt3783958
+    match:
+      mapping_id: 313369
     audience_rating: 9.0
   'Léon: The Professional (1994)':
-    tmdb: 101
-    imdb: tt0110413
+    match:
+      mapping_id: 101
     audience_rating: 9.0
   Life (2017):
-    tmdb: 395992
-    imdb: tt5442430
+    match:
+      mapping_id: 395992
     audience_rating: 9.0
   'Mad Max: Fury Road (2015)':
-    tmdb: 76341
-    imdb: tt1392190
+    match:
+      mapping_id: 76341
     audience_rating: 9.6
   Man of Steel (2013):
-    tmdb: 49521
-    imdb: tt0770828
+    match:
+      mapping_id: 49521
     audience_rating: 9.6
   'Maze Runner: The Death Cure (2018)':
-    tmdb: 336843
-    imdb: tt4500922
+    match:
+      mapping_id: 336843
     audience_rating: 9.0
   M3GAN 2.0 (2025):
-    tmdb: 1071585
-    imdb: tt26342662
+    match:
+      mapping_id: 1071585
     audience_rating: 9.5
   'Men in Black: International (2019)':
-    tmdb: 479455
-    imdb: tt2283336
+    match:
+      mapping_id: 479455
     audience_rating: 9.4
   Mickey 17 (2025):
-    tmdb: 696506
-    imdb: tt12299608
+    match:
+      mapping_id: 696506
     audience_rating: 9.6
   A Minecraft Movie (2025):
-    tmdb: 950387
-    imdb: tt3566834
+    match:
+      mapping_id: 950387
     audience_rating: 10.0
   'Mission: Impossible - Dead Reckoning Part One (2023)':
-    tmdb: 575264
-    imdb: tt9603212
+    match:
+      mapping_id: 575264
     audience_rating: 9.2
   'Mission: Impossible - The Final Reckoning (2025)':
-    tmdb: 575265
-    imdb: tt9603208
+    match:
+      mapping_id: 575265
     audience_rating: 9.7
   Moana (2026):
-    tmdb: 1108427
-    imdb: tt27419466
+    match:
+      mapping_id: 1108427
     audience_rating: 9.6
   Monster Hunter (2020):
-    tmdb: 458576
-    imdb: tt6475714
+    match:
+      mapping_id: 458576
     audience_rating: 9.2
   Morbius (2022):
-    tmdb: 526896
-    imdb: tt5108870
+    match:
+      mapping_id: 526896
     audience_rating: 9.3
   Mortal Engines (2018):
-    tmdb: 428078
-    imdb: tt1571234
+    match:
+      mapping_id: 428078
     audience_rating: 10.0
   Mortal Kombat (2021):
-    tmdb: 460465
-    imdb: tt0293429
+    match:
+      mapping_id: 460465
     audience_rating: 9.1
   'Mufasa: The Lion King (2024)':
-    tmdb: 762509
-    imdb: tt13186482
+    match:
+      mapping_id: 762509
     audience_rating: 10.0
   Once Upon a Time... in Hollywood (2019):
-    tmdb: 466272
-    imdb: tt7131622
+    match:
+      mapping_id: 466272
     audience_rating: 9.2
   Pacific Rim (2013):
-    tmdb: 68726
-    imdb: tt1663662
+    match:
+      mapping_id: 68726
     audience_rating: 10.0
   'Pacific Rim: Uprising (2018)':
-    tmdb: 268896
-    imdb: tt2557478
+    match:
+      mapping_id: 268896
     audience_rating: 9.7
   Passengers (2016):
-    tmdb: 274870
-    imdb: tt1355644
+    match:
+      mapping_id: 274870
     audience_rating: 9.5
   Pitch Perfect 3 (2017):
-    tmdb: 353616
-    imdb: tt4765284
+    match:
+      mapping_id: 353616
     audience_rating: 9.0
   'Rambo: Last Blood (2019)':
-    tmdb: 522938
-    imdb: tt1206885
+    match:
+      mapping_id: 522938
     audience_rating: 9.0
   Ready Player One (2018):
-    tmdb: 333339
-    imdb: tt1677720
+    match:
+      mapping_id: 333339
     audience_rating: 9.0
   'Resident Evil: The Final Chapter (2016)':
-    tmdb: 173897
-    imdb: tt2592614
+    match:
+      mapping_id: 173897
     audience_rating: 10.0
   'Resident Evil: Welcome to Raccoon City (2021)':
-    tmdb: 460458
-    imdb: tt6920084
+    match:
+      mapping_id: 460458
     audience_rating: 9.0
   Robin Hood (2018):
-    tmdb: 375588
-    imdb: tt4532826
+    match:
+      mapping_id: 375588
     audience_rating: 9.0
   Se7en (1995):
-    tmdb: 807
-    imdb: tt0114369
+    match:
+      mapping_id: 807
     audience_rating: 9.4
   Sicario (2015):
-    tmdb: 273481
-    imdb: tt3397884
+    match:
+      mapping_id: 273481
     audience_rating: 10.0
   Sinners (2025):
-    tmdb: 1233413
-    imdb: tt31193180
+    match:
+      mapping_id: 1233413
     audience_rating: 9.6
   'Spider-Man: Into the Spider-Verse (2018)':
-    tmdb: 324857
-    imdb: tt4633694
+    match:
+      mapping_id: 324857
     audience_rating: 9.2
   'Spider-Man: No Way Home (2021)':
-    tmdb: 634649
-    imdb: tt10872600
+    match:
+      mapping_id: 634649
     audience_rating: 9.0
   Spiral (2019):
-    tmdb: 614199
-    imdb: tt9247314
+    match:
+      mapping_id: 614199
     audience_rating: 9.0
   Tenet (2020):
-    tmdb: 577922
-    imdb: tt6723592
+    match:
+      mapping_id: 577922
     audience_rating: 9.5
   Terminator Genisys (2015):
-    tmdb: 87101
-    imdb: tt1340138
+    match:
+      mapping_id: 87101
     audience_rating: 9.2
   The Avengers (2012):
-    tmdb: 24428
-    imdb: tt0848228
+    match:
+      mapping_id: 24428
     audience_rating: 9.2
   The Call of the Wild (2020):
-    tmdb: 481848
-    imdb: tt7504726
+    match:
+      mapping_id: 481848
     audience_rating: 9.3
   The Crow (2024):
-    tmdb: 957452
-    imdb: tt1340094
+    match:
+      mapping_id: 957452
     audience_rating: 9.2
   The Dark Tower (2017):
-    tmdb: 353491
-    imdb: tt1648190
+    match:
+      mapping_id: 353491
     audience_rating: 9.0
   The Greatest Showman (2017):
-    tmdb: 316029
-    imdb: tt1485796
+    match:
+      mapping_id: 316029
     audience_rating: 9.0
   The Lion King (2019):
-    tmdb: 420818
-    imdb: tt6105098
+    match:
+      mapping_id: 420818
     audience_rating: 10.0
   The Matrix Resurrections (2021):
-    tmdb: 624860
-    imdb: tt10838180
+    match:
+      mapping_id: 624860
     audience_rating: 9.5
   The New Mutants (2020):
-    tmdb: 340102
-    imdb: tt4682266
+    match:
+      mapping_id: 340102
     audience_rating: 9.0
   The Shallows (2016):
-    tmdb: 332567
-    imdb: tt4052882
+    match:
+      mapping_id: 332567
     audience_rating: 9.5
   The Suicide Squad (2021):
-    tmdb: 436969
-    imdb: tt6334354
+    match:
+      mapping_id: 436969
     audience_rating: 9.8
   The Texas Chainsaw Massacre (2003):
-    tmdb: 9373
-    imdb: tt0324216
+    match:
+      mapping_id: 9373
     audience_rating: 9.0
   Thor (2011):
-    tmdb: 10195
-    imdb: tt0800369
+    match:
+      mapping_id: 10195
     audience_rating: 10.0
   'Thor: Love and Thunder (2022)':
-    tmdb: 616037
-    imdb: tt10648342
+    match:
+      mapping_id: 616037
     audience_rating: 9.1
   Thunderbolts* (2025):
-    tmdb: 986056
-    imdb: tt20969586
+    match:
+      mapping_id: 986056
     audience_rating: 9.7
   Tomb Raider (2018):
-    tmdb: 338970
-    imdb: tt1365519
+    match:
+      mapping_id: 338970
     audience_rating: 9.0
   Tombstone (1993):
-    tmdb: 11969
-    imdb: tt0108358
+    match:
+      mapping_id: 11969
     audience_rating: 9.0
   'Top Gun: Maverick (2022)':
-    tmdb: 361743
-    imdb: tt1745960
+    match:
+      mapping_id: 361743
     audience_rating: 9.9
   Transformers One (2024):
-    tmdb: 698687
-    imdb: tt8864596
+    match:
+      mapping_id: 698687
     audience_rating: 9.9
   'Transformers: Rise of the Beasts (2023)':
-    tmdb: 667538
-    imdb: tt5090568
+    match:
+      mapping_id: 667538
     audience_rating: 9.6
   'Transformers: The Last Knight (2017)':
-    tmdb: 335988
-    imdb: tt3371366
+    match:
+      mapping_id: 335988
     audience_rating: 9.0
   Twisters (2024):
-    tmdb: 718821
-    imdb: tt12584954
+    match:
+      mapping_id: 718821
     audience_rating: 9.0
   Underwater (2020):
-    tmdb: 443791
-    imdb: tt5774060
+    match:
+      mapping_id: 443791
     audience_rating: 9.2
   War for the Planet of the Apes (2017):
-    tmdb: 281338
-    imdb: tt3450958
+    match:
+      mapping_id: 281338
     audience_rating: 9.0
   Weapons (2025):
-    tmdb: 1078605
-    imdb: tt26581740
+    match:
+      mapping_id: 1078605
     audience_rating: 9.0
   Wonka (2023):
-    tmdb: 787699
-    imdb: tt6166392
+    match:
+      mapping_id: 787699
     audience_rating: 9.6
   'X-Men: Apocalypse (2016)':
-    tmdb: 246655
-    imdb: tt3385516
+    match:
+      mapping_id: 246655
     audience_rating: 9.5
   Zack Snyder's Justice League (2021):
-    tmdb: 791373
-    imdb: tt12361974
+    match:
+      mapping_id: 791373
     audience_rating: 9.4
