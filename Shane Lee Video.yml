@@ -251,6 +251,10 @@ metadata:
     tmdb: 1022789
     imdb: tt22022452
     audience_rating: 99
+  'John Wick: Chapter 3 - Parabellum (2019)':
+    tmdb: 458156
+    imdb: tt6146586
+    audience_rating: 90
   'John Wick: Chapter 4 (2023)':
     tmdb: 603692
     imdb: tt10366206
@@ -311,6 +315,10 @@ metadata:
     tmdb: 696506
     imdb: tt12299608
     audience_rating: 96
+  A Minecraft Movie (2025):
+    tmdb: 950387
+    imdb: tt3566834
+    audience_rating: 100
   'Mission: Impossible - Dead Reckoning Part One (2023)':
     tmdb: 575264
     imdb: tt9603212
@@ -383,9 +391,9 @@ metadata:
     tmdb: 375588
     imdb: tt4532826
     audience_rating: 90
-  Seven (1996):
-    tmdb: 475009
-    imdb: tt0286071
+  Se7en (1995):
+    tmdb: 807
+    imdb: tt0114369
     audience_rating: 94
   Sicario (2015):
     tmdb: 273481

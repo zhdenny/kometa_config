@@ -218,6 +218,10 @@ metadata:
     tmdb: 522162
     imdb: tt6924650
     critic_rating: 100
+  A Minecraft Movie (2025):
+    tmdb: 950387
+    imdb: tt3566834
+    critic_rating: 98
   'Mission: Impossible - Ghost Protocol (2011)':
     tmdb: 56292
     imdb: tt1229238
@@ -386,9 +390,9 @@ metadata:
     tmdb: 335988
     imdb: tt3371366
     critic_rating: 95
-  Twister (1989):
-    tmdb: 77780
-    imdb: tt0096321
+  Twister (1996):
+    tmdb: 664
+    imdb: tt0117998
     critic_rating: 96
   Twisters (2024):
     tmdb: 718821
