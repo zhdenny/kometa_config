@@ -54,6 +54,10 @@ metadata:
     tmdb: 436270
     imdb: tt6443346
     critic_rating: 97
+  Blade (1998):
+    tmdb: 36647
+    imdb: tt0120611
+    critic_rating: 90
   Blade Runner 2049 (2017):
     tmdb: 335984
     imdb: tt1856101
@@ -170,6 +174,10 @@ metadata:
     tmdb: 324786
     imdb: tt2119532
     critic_rating: 98
+  'Harry Potter and the Deathly Hallows: Part 2 (2011)':
+    tmdb: 12445
+    imdb: tt1201607
+    critic_rating: 100
   Hunter Killer (2018):
     tmdb: 399402
     imdb: tt1846589
