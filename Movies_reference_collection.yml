@@ -5,7 +5,7 @@ templates:
 collections:
   Reference Audio:
     tmdb_list:
-      - https://www.themoviedb.org/list/8563963-reference-audio
+      - https://www.themoviedb.org/list/8563963-reference-audio-9-5
     summary: Get ready for a cinematic adventure where the power of sound takes center stage, transporting you on a captivating sonic journey like no other. These immersive soundscapes deliver an auditory experience that will leave you breathless and exhilarated.
     cache_builders: 0
     collection_order: custom
@@ -14,7 +14,7 @@ collections:
     radarr_search: true
   Reference Video:
     tmdb_list:
-      - https://www.themoviedb.org/list/8563964-reference-video
+      - https://www.themoviedb.org/list/8564686-reference-video-9-5
     summary: Movies with standout video quality according to Shane Lee YouTube review series.
     cache_builders: 0
     collection_order: custom
