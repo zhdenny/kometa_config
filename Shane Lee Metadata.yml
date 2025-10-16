@@ -1084,9 +1084,9 @@ metadata:
       mapping_id: 575265
     critic_rating: 9.1
     audience_rating: 9.7
-  Moana (2026):
+  Moana (2016):
     match:
-      mapping_id: 1108427
+      mapping_id: 277834
     critic_rating: 1.0
     audience_rating: 9.6
   Monster Hunter (2020):
@@ -1847,8 +1847,8 @@ metadata:
   Weapons (2025):
     match:
       mapping_id: 1078605
-    critic_rating: 9.8
-    audience_rating: 9.0
+    critic_rating: 9.7
+    audience_rating: 1.0
   Whiplash (2014):
     match:
       mapping_id: 244786
