@@ -8,6 +8,7 @@ collections:
       - https://www.themoviedb.org/list/8563963-reference-audio-9-5
     summary: Get ready for a cinematic adventure where the power of sound takes center stage, transporting you on a captivating sonic journey like no other. These immersive soundscapes deliver an auditory experience that will leave you breathless and exhilarated.
     cache_builders: 0
+    collection_mode: show_items # To always display items
     collection_order: custom
     sort_title: "*101"
     radarr_add_missing: true
@@ -17,6 +18,7 @@ collections:
       - https://www.themoviedb.org/list/8564686-reference-video-9-5
     summary: Movies with standout video quality according to Shane Lee YouTube review series.
     cache_builders: 0
+    collection_mode: show_items # To always display items
     collection_order: custom
     sort_title: "*101.1"
     radarr_add_missing: true
@@ -25,7 +27,6 @@ collections:
     libraries: Movies-4KHDR-dv
     radarr_taglist: fel
     summary: "Collection of movies with a Full Enhancement Layer ('fel' tag in radarr)."
-    collection_mode: show_items # To always display items
     collection_order: release # Order by release date
     sync_mode: sync # Sync items; remove those not matching the buildery
     sort_title: "*101.2"
@@ -33,7 +34,6 @@ collections:
     libraries: Movies-4KHDR-dv
     radarr_taglist: mel
     summary: "Collection of movies with a Minimum Enhancement Layer ('mel' tag in radarr)."
-    collection_mode: show_items # To always display items
     collection_order: release # Order by release date
     sync_mode: sync # Sync items; remove those not matching the builder
     sort_title: "*101.3"
