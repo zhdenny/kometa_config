@@ -1,4 +1,9 @@
 metadata:
+  Edward Scissorhands (1990):
+    match:
+      mapping_id: 162
+    critic_rating: 1.0
+    audience_rating: 1.0
   10 Cloverfield Lane (2016):
     match:
       mapping_id: 333371
