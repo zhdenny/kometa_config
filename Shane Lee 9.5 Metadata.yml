@@ -1,4 +1,9 @@
 metadata:
+  Frankenstein (2025):
+    match:
+      mapping_id: 1062722
+    critic_rating: 9.8
+    audience_rating: 9.8
   Edward Scissorhands (1990):
     match:
       mapping_id: 162
@@ -69,9 +74,9 @@ metadata:
       mapping_id: 332562
     critic_rating: 1.0
     audience_rating: 1.0
-  A Wrinkle in Time (2018):
+  A Wrinkle in Time (2003):
     match:
-      mapping_id: 407451
+      mapping_id: 27874
     critic_rating: 1.0
     audience_rating: 1.0
   Abigail (2024):
@@ -249,9 +254,9 @@ metadata:
       mapping_id: 339846
     critic_rating: 1.0
     audience_rating: 1.0
-  Beast (2018):
+  Beast (2022):
     match:
-      mapping_id: 470918
+      mapping_id: 760741
     critic_rating: 1.0
     audience_rating: 1.0
   Beetlejuice (1988):
@@ -599,9 +604,9 @@ metadata:
       mapping_id: 228150
     critic_rating: 9.5
     audience_rating: 1.0
-  Fury FC 73 (2023):
+  Fury FC 71 (2022):
     match:
-      mapping_id: 1085336
+      mapping_id: 1044711
     critic_rating: 1.0
     audience_rating: 1.0
   Gattaca (1997):
@@ -814,9 +819,9 @@ metadata:
       mapping_id: 346364
     critic_rating: 1.0
     audience_rating: 1.0
-  Lokah Chapter 2:
+  S&M Chapter 2 (2010):
     match:
-      mapping_id: 1541123
+      mapping_id: 571776
     critic_rating: 1.0
     audience_rating: 1.0
   Jack Reacher (2012):
@@ -979,9 +984,9 @@ metadata:
       mapping_id: 395992
     critic_rating: 1.0
     audience_rating: 1.0
-  Logan (2013):
+  Logan (2017):
     match:
-      mapping_id: 229801
+      mapping_id: 263115
     critic_rating: 1.0
     audience_rating: 1.0
   Love and Monsters (2020):
@@ -1254,9 +1259,9 @@ metadata:
       mapping_id: 522938
     critic_rating: 1.0
     audience_rating: 1.0
-  Rampage (2018):
+  Rampage (2009):
     match:
-      mapping_id: 427641
+      mapping_id: 38780
     critic_rating: 1.0
     audience_rating: 1.0
   Ready Player One (2018):
@@ -1304,9 +1309,9 @@ metadata:
       mapping_id: 22538
     critic_rating: 1.0
     audience_rating: 1.0
-  Serenity (2005):
+  Serenity (1961):
     match:
-      mapping_id: 16320
+      mapping_id: 423675
     critic_rating: 1.0
     audience_rating: 1.0
   Se7en (1995):
@@ -1534,9 +1539,9 @@ metadata:
       mapping_id: 11639
     critic_rating: 1.0
     audience_rating: 1.0
-  The Dark Tower (2017):
+  The Dark Tower (2020):
     match:
-      mapping_id: 353491
+      mapping_id: 1456113
     critic_rating: 1.0
     audience_rating: 1.0
   The Equalizer (2014):
@@ -1549,9 +1554,9 @@ metadata:
       mapping_id: 746036
     critic_rating: 1.0
     audience_rating: 1.0
-  The Fast and the Furious (2001):
+  The Fast and the Furious (1954):
     match:
-      mapping_id: 9799
+      mapping_id: 20174
     critic_rating: 1.0
     audience_rating: 1.0
   The Fifth Element (1997):
@@ -1659,9 +1664,9 @@ metadata:
       mapping_id: 346910
     critic_rating: 1.0
     audience_rating: 1.0
-  The Remedy (2021):
+  The Remedy:
     match:
-      mapping_id: 875621
+      mapping_id: 1434583
     critic_rating: 1.0
     audience_rating: 1.0
   The Shallows (2016):
@@ -1779,9 +1784,9 @@ metadata:
       mapping_id: 7446
     critic_rating: 1.0
     audience_rating: 1.0
-  True Lies (2024):
+  True Lies (1994):
     match:
-      mapping_id: 1336208
+      mapping_id: 36955
     critic_rating: 1.0
     audience_rating: 1.0
   Twilight (2008):
@@ -1859,9 +1864,9 @@ metadata:
       mapping_id: 244786
     critic_rating: 1.0
     audience_rating: 1.0
-  Wicked (2021):
+  Wicked (2024):
     match:
-      mapping_id: 834143
+      mapping_id: 402431
     critic_rating: 1.0
     audience_rating: 1.0
   Wolf Man (2025):
