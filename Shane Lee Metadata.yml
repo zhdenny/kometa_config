@@ -1,4 +1,9 @@
 metadata:
+  Minority Report (2002):
+    match:
+      mapping_id: 180
+    critic_rating: 1.0
+    audience_rating: 1.0
   'TRON: Ares (2025)':
     match:
       mapping_id: 533533
