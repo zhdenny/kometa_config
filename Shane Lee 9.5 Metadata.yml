@@ -84,9 +84,9 @@ metadata:
       mapping_id: 520763
     critic_rating: 9.9
     audience_rating: 1.0
-  A Star Is Born (2018):
+  A Star Is Born (1976):
     match:
-      mapping_id: 332562
+      mapping_id: 19610
     critic_rating: 1.0
     audience_rating: 1.0
   A Wrinkle in Time (2003):
@@ -269,9 +269,9 @@ metadata:
       mapping_id: 339846
     critic_rating: 1.0
     audience_rating: 1.0
-  Beast (2022):
+  Beast (2018):
     match:
-      mapping_id: 760741
+      mapping_id: 470918
     critic_rating: 1.0
     audience_rating: 1.0
   Beetlejuice (1988):
@@ -584,14 +584,14 @@ metadata:
       mapping_id: 574475
     critic_rating: 1.0
     audience_rating: 9.5
-  First Man (2018):
+  First Man (2017):
     match:
-      mapping_id: 369972
+      mapping_id: 432320
     critic_rating: 1.0
     audience_rating: 1.0
-  Flash Gordon (1980):
+  Flash Gordon (1936):
     match:
-      mapping_id: 3604
+      mapping_id: 3632
     critic_rating: 1.0
     audience_rating: 1.0
   Ford v Ferrari (2019):
@@ -1069,9 +1069,9 @@ metadata:
       mapping_id: 696506
     critic_rating: 1.0
     audience_rating: 9.6
-  Midway (2019):
+  Midway (1976):
     match:
-      mapping_id: 522162
+      mapping_id: 11422
     critic_rating: 10.0
     audience_rating: 1.0
   A Minecraft Movie (2025):
@@ -1144,9 +1144,9 @@ metadata:
       mapping_id: 762509
     critic_rating: 9.5
     audience_rating: 10.0
-  Murder on the Orient Express (2017):
+  Murder on the Orient Express (1974):
     match:
-      mapping_id: 392044
+      mapping_id: 4176
     critic_rating: 1.0
     audience_rating: 1.0
   No Time to Die (2021):
@@ -1244,9 +1244,9 @@ metadata:
       mapping_id: 106
     critic_rating: 1.0
     audience_rating: 1.0
-  Predators (2010):
+  Predators (2025):
     match:
-      mapping_id: 34851
+      mapping_id: 1400382
     critic_rating: 1.0
     audience_rating: 1.0
   Prey (2022):
@@ -1434,9 +1434,9 @@ metadata:
       mapping_id: 634649
     critic_rating: 1.0
     audience_rating: 1.0
-  Spiral (2019):
+  Spiral (2007):
     match:
-      mapping_id: 614199
+      mapping_id: 18467
     critic_rating: 9.5
     audience_rating: 1.0
   Split (2017):
@@ -1542,6 +1542,11 @@ metadata:
   The Creator (2023):
     match:
       mapping_id: 670292
+    critic_rating: 1.0
+    audience_rating: 1.0
+  The Crow (1994):
+    match:
+      mapping_id: 9495
     critic_rating: 1.0
     audience_rating: 1.0
   The Crow (2024):
@@ -1829,9 +1834,9 @@ metadata:
       mapping_id: 335787
     critic_rating: 1.0
     audience_rating: 1.0
-  Underwater (2020):
+  Underwater (2015):
     match:
-      mapping_id: 443791
+      mapping_id: 374379
     critic_rating: 1.0
     audience_rating: 1.0
   'Underworld: Blood Wars (2016)':
