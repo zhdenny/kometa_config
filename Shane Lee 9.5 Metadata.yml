@@ -1,4 +1,9 @@
 metadata:
+  The Long Walk (2025):
+    match:
+      mapping_id: 604079
+    critic_rating: 9.9
+    audience_rating: 9.6
   Teenage Mutant Ninja Turtles (1990):
     match:
       mapping_id: 1498
@@ -1069,9 +1074,9 @@ metadata:
       mapping_id: 696506
     critic_rating: 1.0
     audience_rating: 9.6
-  Midway (1976):
+  Midway (2019):
     match:
-      mapping_id: 11422
+      mapping_id: 522162
     critic_rating: 10.0
     audience_rating: 1.0
   A Minecraft Movie (2025):
