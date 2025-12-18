@@ -1,4 +1,9 @@
 metadata:
+  'Sisu: Road to Revenge (2025)':
+    match:
+      mapping_id: 1223601
+    critic_rating: 1.0
+    audience_rating: 9.4
   The Long Walk (2025):
     match:
       mapping_id: 604079
