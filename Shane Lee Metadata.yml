@@ -1,4 +1,9 @@
 metadata:
+  'TRON: Ares (2025)':
+    match:
+      mapping_id: 533533
+    critic_rating: 10.0
+    audience_rating: 10.0
   The Running Man (2025):
     match:
       mapping_id: 798645
@@ -24,11 +29,6 @@ metadata:
       mapping_id: 180
     critic_rating: 1.0
     audience_rating: 1.0
-  'TRON: Ares (2025)':
-    match:
-      mapping_id: 533533
-    critic_rating: 9.9
-    audience_rating: 9.9
   Frankenstein (2025):
     match:
       mapping_id: 1062722
