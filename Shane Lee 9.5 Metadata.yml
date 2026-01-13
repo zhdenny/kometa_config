@@ -104,9 +104,9 @@ metadata:
       mapping_id: 520763
     critic_rating: 9.9
     audience_rating: 1.0
-  A Star Is Born (1976):
+  A Star Is Born (2018):
     match:
-      mapping_id: 19610
+      mapping_id: 332562
     critic_rating: 1.0
     audience_rating: 1.0
   A Wrinkle in Time (2003):
@@ -604,14 +604,14 @@ metadata:
       mapping_id: 574475
     critic_rating: 1.0
     audience_rating: 9.5
-  First Man (2017):
+  First Man (2018):
     match:
-      mapping_id: 432320
+      mapping_id: 369972
     critic_rating: 1.0
     audience_rating: 1.0
-  Flash Gordon (1936):
+  Flash Gordon (1980):
     match:
-      mapping_id: 3632
+      mapping_id: 3604
     critic_rating: 1.0
     audience_rating: 1.0
   Ford v Ferrari (2019):
@@ -1099,9 +1099,9 @@ metadata:
       mapping_id: 950387
     critic_rating: 9.8
     audience_rating: 10.0
-  Mission Impossible (1971):
+  Mission Impossible (2018):
     match:
-      mapping_id: 187339
+      mapping_id: 624265
     critic_rating: 1.0
     audience_rating: 1.0
   'Mission: Impossible - Dead Reckoning Part One (2023)':
@@ -1264,9 +1264,9 @@ metadata:
       mapping_id: 106
     critic_rating: 1.0
     audience_rating: 1.0
-  Predators (2025):
+  Predators (2010):
     match:
-      mapping_id: 1400382
+      mapping_id: 34851
     critic_rating: 1.0
     audience_rating: 1.0
   Prey (2022):
@@ -1279,9 +1279,9 @@ metadata:
       mapping_id: 70981
     critic_rating: 1.0
     audience_rating: 1.0
-  Push (2009):
+  Push (2025):
     match:
-      mapping_id: 13455
+      mapping_id: 1073109
     critic_rating: 1.0
     audience_rating: 1.0
   Ralph Breaks the Internet (2018):
@@ -1294,9 +1294,9 @@ metadata:
       mapping_id: 522938
     critic_rating: 1.0
     audience_rating: 1.0
-  Rampage (2009):
+  Rampage (2018):
     match:
-      mapping_id: 38780
+      mapping_id: 427641
     critic_rating: 1.0
     audience_rating: 1.0
   Ready Player One (2018):
@@ -1579,9 +1579,9 @@ metadata:
       mapping_id: 11639
     critic_rating: 1.0
     audience_rating: 1.0
-  The Dark Tower (2020):
+  The Dark Tower (2017):
     match:
-      mapping_id: 1456113
+      mapping_id: 353491
     critic_rating: 1.0
     audience_rating: 1.0
   The Equalizer (2014):
@@ -1854,9 +1854,9 @@ metadata:
       mapping_id: 335787
     critic_rating: 1.0
     audience_rating: 1.0
-  Underwater (2015):
+  Underwater (2020):
     match:
-      mapping_id: 374379
+      mapping_id: 443791
     critic_rating: 1.0
     audience_rating: 1.0
   'Underworld: Blood Wars (2016)':
