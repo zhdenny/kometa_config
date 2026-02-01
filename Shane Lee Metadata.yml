@@ -1,4 +1,9 @@
 metadata:
+  'Wicked: For Good (2025)':
+    match:
+      mapping_id: 967941
+    critic_rating: 1.0
+    audience_rating: 1.0
   'Predator: Badlands (2025)':
     match:
       mapping_id: 1242898
