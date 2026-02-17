@@ -1,88 +1,94 @@
 templates:
   general:
-     url_poster: <<poster>>
+    url_poster: <<poster>>
 
 collections:
-    Ultimate Bass:
-        trakt_list: https://trakt.tv/users/blackmirror81/lists/ultimate-bass?sort=rank,asc
-        collection_order: custom
-        sync_mode: sync
-        sort_title: '*102'
-        file_poster: /config/UltimateBassPoster.png
-    Marvel Cinematic Universe:
-        trakt_list:
-          - https://trakt.tv/users/tetharion/lists/marvel-cinematic-universe
-        cache_builders: 0
-    Harry Potter Universe:
-        trakt_list:
-          - https://trakt.tv/users/jjmalpz/lists/harry-potter-fantastic-beasts
-          - https://trakt.tv/users/stupifier/lists/harry-potter-universe
-        cache_builders: 0
-    Star Wars Universe:
-        trakt_list: https://trakt.tv/users/zorge88/lists/star-wars
-        cache_builders: 0
-    James Bond:
-        trakt_list: https://trakt.tv/users/any/lists/james-bond
-        cache_builders: 0
-    Fast & Furious:
-        trakt_list: https://trakt.tv/users/matmuilwijk/lists/fast-furious
-        cache_builders: 0
-    Mission Impossible:
-        trakt_list: https://trakt.tv/users/jjmalpz/lists/mission-impossible
-        cache_builders: 0
-    Star Trek Universe:
-        trakt_list: https://trakt.tv/users/strangerer/lists/star-trek
-        cache_builders: 0
-    Terminator:
-        trakt_list: https://trakt.tv/users/strangerer/lists/terminator
-        cache_builders: 0
-    X-Men:
-        trakt_list: https://trakt.tv/users/bertjj/lists/x-men
-        cache_builders: 0
-    Batman:
-        trakt_list: https://trakt.tv/users/andersonwallacerj/lists/batman
-        cache_builders: 0
-    Lord of The Rings:
-        trakt_list: https://trakt.tv/users/spite84/lists/lord-of-the-rings
-        cache_builders: 0
-    Spider-Man:
-        imdb_list: https://www.imdb.com/list/ls049852613/
-        trakt_list: https://trakt.tv/users/james_97/lists/spider-verse
-        cache_builders: 0
-    Jurassic Park:
-        trakt_list: https://trakt.tv/users/rygo92/lists/jurassic-park
-        cache_builders: 0
-    Superman:
-        trakt_list:
-          - https://trakt.tv/users/liong1976/lists/superman-animated
-          - https://trakt.tv/users/movistapp/lists/superman
-        cache_builders: 0
-    John Wick:
-        trakt_list: https://trakt.tv/users/jjmalpz/lists/john-wick
-        cache_builders: 0
-    The Matrix:
-        trakt_list: https://trakt.tv/users/bruinschris/lists/matrix
-        cache_builders: 0
-    DC Universe:
-        trakt_list:
-          - https://trakt.tv/users/donxy/lists/dc-extended-universe
-          - https://trakt.tv/users/monkey-fitz/lists/dceu-timeline
-        cache_builders: 0
-    Aliens:
-        trakt_list: https://trakt.tv/users/barffy194/lists/aliens
-        cache_builders: 0
-    IMDB Top 250:
-        template: {name: general, poster: https://theposterdb.com/api/assets/213613}
-        imdb_chart: top_movies
-        build_collection: true
-        sort_title: '*102'
-        cache_builders: 0
-    IMAX:
-        build_collection: true
-        sort_title: '*103'
-        cache_builders: 0
-        plex_all: true
-        filters:
-          filepath.regex: '(?i)\bIMAX\b'
+  Ultimate Bass:
+    trakt_list: https://trakt.tv/users/blackmirror81/lists/ultimate-bass?sort=rank,asc
+    collection_order: custom
+    sync_mode: sync
+    sort_title: "*102"
+    file_poster: /config/UltimateBassPoster.png
+  Marvel Cinematic Universe:
+    trakt_list:
+      - https://trakt.tv/users/tetharion/lists/marvel-cinematic-universe
+    cache_builders: 0
+  Harry Potter Universe:
+    trakt_list:
+      - https://trakt.tv/users/jjmalpz/lists/harry-potter-fantastic-beasts
+      - https://trakt.tv/users/stupifier/lists/harry-potter-universe
+    cache_builders: 0
+  Star Wars Universe:
+    trakt_list: https://trakt.tv/users/zorge88/lists/star-wars
+    cache_builders: 0
+  James Bond:
+    trakt_list: https://trakt.tv/users/any/lists/james-bond
+    cache_builders: 0
+  Fast & Furious:
+    trakt_list: https://trakt.tv/users/matmuilwijk/lists/fast-furious
+    cache_builders: 0
+  Mission Impossible:
+    trakt_list: https://trakt.tv/users/jjmalpz/lists/mission-impossible
+    cache_builders: 0
+  Star Trek Universe:
+    trakt_list: https://trakt.tv/users/strangerer/lists/star-trek
+    cache_builders: 0
+  Terminator:
+    trakt_list: https://trakt.tv/users/strangerer/lists/terminator
+    cache_builders: 0
+  X-Men:
+    trakt_list: https://trakt.tv/users/bertjj/lists/x-men
+    cache_builders: 0
+  Batman:
+    trakt_list: https://trakt.tv/users/andersonwallacerj/lists/batman
+    cache_builders: 0
+  Lord of The Rings:
+    trakt_list: https://trakt.tv/users/spite84/lists/lord-of-the-rings
+    cache_builders: 0
+  Spider-Man:
+    imdb_list: https://www.imdb.com/list/ls049852613/
+    trakt_list: https://trakt.tv/users/james_97/lists/spider-verse
+    cache_builders: 0
+  Jurassic Park:
+    trakt_list: https://trakt.tv/users/rygo92/lists/jurassic-park
+    cache_builders: 0
+  Superman:
+    trakt_list:
+      - https://trakt.tv/users/liong1976/lists/superman-animated
+      - https://trakt.tv/users/movistapp/lists/superman
+    cache_builders: 0
+  John Wick:
+    trakt_list: https://trakt.tv/users/jjmalpz/lists/john-wick
+    cache_builders: 0
+  The Matrix:
+    trakt_list: https://trakt.tv/users/bruinschris/lists/matrix
+    cache_builders: 0
+  DC Universe:
+    trakt_list:
+      - https://trakt.tv/users/donxy/lists/dc-extended-universe
+      - https://trakt.tv/users/monkey-fitz/lists/dceu-timeline
+    cache_builders: 0
+  Aliens:
+    trakt_list: https://trakt.tv/users/barffy194/lists/aliens
+    cache_builders: 0
+  Rewatchables:
+    tmdb_list: 8634243
+    cache_builders: 0
+    sync_mode: sync
+    collection_order: custom
+  IMDB Top 250:
+    template:
+      { name: general, poster: https://theposterdb.com/api/assets/213613 }
+    imdb_chart: top_movies
+    build_collection: true
+    sort_title: "*102"
+    cache_builders: 0
+  IMAX:
+    build_collection: true
+    sort_title: "*103"
+    cache_builders: 0
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)\bIMAX\b'
 #        file_poster: /config/custom_posters/imax.jpg
 
