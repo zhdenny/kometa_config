@@ -1,4 +1,9 @@
 metadata:
+  War Machine (2026):
+    match:
+      mapping_id: 1265609
+    critic_rating: 1.0
+    audience_rating: 1.0
   'Predator: Badlands (2025)':
     match:
       mapping_id: 1242898
