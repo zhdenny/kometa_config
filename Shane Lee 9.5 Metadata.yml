@@ -301,7 +301,7 @@ metadata:
     audience_rating: 1.0
   Beast (2022):
     match:
-      mapping_id: 1017178
+      mapping_id: 760741
     critic_rating: 1.0
     audience_rating: 1.0
   Beetlejuice (1988):
@@ -314,9 +314,9 @@ metadata:
       mapping_id: 917496
     critic_rating: 9.5
     audience_rating: 9.5
-  Birds of Prey (1985):
+  Birds of Prey:
     match:
-      mapping_id: 296919
+      mapping_id: 1125037
     critic_rating: 1.0
     audience_rating: 1.0
   Black Adam (2022):
@@ -1109,9 +1109,9 @@ metadata:
       mapping_id: 950387
     critic_rating: 9.8
     audience_rating: 10.0
-  Mission Impossible (2018):
+  Mission Impossible (1971):
     match:
-      mapping_id: 624265
+      mapping_id: 187339
     critic_rating: 1.0
     audience_rating: 1.0
   'Mission: Impossible - Dead Reckoning Part One (2023)':
@@ -1369,9 +1369,9 @@ metadata:
       mapping_id: 566525
     critic_rating: 1.0
     audience_rating: 1.0
-  Shazam! (2019):
+  Shazam (2026):
     match:
-      mapping_id: 287947
+      mapping_id: 1648500
     critic_rating: 1.0
     audience_rating: 1.0
   Shazam! Fury of the Gods (2023):
@@ -1464,9 +1464,9 @@ metadata:
       mapping_id: 634649
     critic_rating: 1.0
     audience_rating: 1.0
-  Spiral (2007):
+  Spiral:
     match:
-      mapping_id: 18467
+      mapping_id: 824327
     critic_rating: 9.5
     audience_rating: 1.0
   Split (2017):
@@ -1604,9 +1604,9 @@ metadata:
       mapping_id: 746036
     critic_rating: 1.0
     audience_rating: 1.0
-  The Fast and the Furious (1954):
+  The Fast and the Furious (2001):
     match:
-      mapping_id: 20174
+      mapping_id: 9799
     critic_rating: 1.0
     audience_rating: 1.0
   The Fifth Element (1997):
@@ -1714,7 +1714,7 @@ metadata:
       mapping_id: 346910
     critic_rating: 1.0
     audience_rating: 1.0
-  The Remedy:
+  The Remedy (2025):
     match:
       mapping_id: 1434583
     critic_rating: 1.0
