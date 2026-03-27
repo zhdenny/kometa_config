@@ -529,6 +529,11 @@ metadata:
       mapping_id: 453395
     critic_rating: 1.0
     audience_rating: 1.0
+  How the Grinch Stole Christmas (2000):
+    match:
+      mapping_id: 8871
+    critic_rating: 1.0
+    audience_rating: 1.0
   Dredd (2012):
     match:
       mapping_id: 49049
