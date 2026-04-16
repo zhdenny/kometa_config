@@ -79,9 +79,9 @@ metadata:
       mapping_id: 14161
     critic_rating: 9.0
     audience_rating: 1.0
-  3:10 to Yuma (2007):
+  3:10 to Yuma (1957):
     match:
-      mapping_id: 5176
+      mapping_id: 14168
     critic_rating: 1.0
     audience_rating: 1.0
   300 (2007):
@@ -324,9 +324,9 @@ metadata:
       mapping_id: 917496
     critic_rating: 9.5
     audience_rating: 9.5
-  Birds of Prey:
+  Birds of Prey (1998):
     match:
-      mapping_id: 1125037
+      mapping_id: 464389
     critic_rating: 1.0
     audience_rating: 1.0
   Black Adam (2022):
@@ -664,11 +664,6 @@ metadata:
       mapping_id: 228150
     critic_rating: 9.5
     audience_rating: 1.0
-  Fury FC 71 (2022):
-    match:
-      mapping_id: 1044711
-    critic_rating: 1.0
-    audience_rating: 1.0
   Gattaca (1997):
     match:
       mapping_id: 782
@@ -879,9 +874,9 @@ metadata:
       mapping_id: 346364
     critic_rating: 1.0
     audience_rating: 1.0
-  S&M Chapter 2 (2010):
+  It Chapter Two (2019):
     match:
-      mapping_id: 571776
+      mapping_id: 474350
     critic_rating: 1.0
     audience_rating: 1.0
   Jack Reacher (2012):
@@ -1479,9 +1474,9 @@ metadata:
       mapping_id: 634649
     critic_rating: 9.0
     audience_rating: 9.0
-  Spiral:
+  Spiral (2019):
     match:
-      mapping_id: 824327
+      mapping_id: 614199
     critic_rating: 9.5
     audience_rating: 9.0
   Split (2017):
@@ -1589,11 +1584,6 @@ metadata:
       mapping_id: 670292
     critic_rating: 1.0
     audience_rating: 1.0
-  The Crow (1994):
-    match:
-      mapping_id: 9495
-    critic_rating: 1.0
-    audience_rating: 1.0
   The Crow (2024):
     match:
       mapping_id: 957452
@@ -1604,9 +1594,9 @@ metadata:
       mapping_id: 11639
     critic_rating: 1.0
     audience_rating: 1.0
-  The Dark Tower (2017):
+  The Dark Tower (2020):
     match:
-      mapping_id: 353491
+      mapping_id: 1456113
     critic_rating: 1.0
     audience_rating: 9.0
   The Equalizer (2014):
@@ -1619,9 +1609,9 @@ metadata:
       mapping_id: 746036
     critic_rating: 1.0
     audience_rating: 1.0
-  The Fast and the Furious (2001):
+  The Fast and the Furious (1954):
     match:
-      mapping_id: 9799
+      mapping_id: 20174
     critic_rating: 1.0
     audience_rating: 1.0
   The Fifth Element (1997):
