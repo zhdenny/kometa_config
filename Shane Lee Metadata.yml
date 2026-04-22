@@ -369,6 +369,11 @@ metadata:
       mapping_id: 338762
     critic_rating: 9.4
     audience_rating: 1.0
+  Blue Planet (1990):
+    match:
+      mapping_id: 15087
+    critic_rating: 1.0
+    audience_rating: 10.0
   Bohemian Rhapsody (2018):
     match:
       mapping_id: 424694
@@ -394,6 +399,11 @@ metadata:
       mapping_id: 197
     critic_rating: 1.0
     audience_rating: 1.0
+  Brightburn (2019):
+    match:
+      mapping_id: 531309
+    critic_rating: 1.0
+    audience_rating: 9.4
   Bullet Train (2022):
     match:
       mapping_id: 718930
@@ -469,6 +479,11 @@ metadata:
       mapping_id: 1948
     critic_rating: 1.0
     audience_rating: 1.0
+  Kraven the Hunter (2024):
+    match:
+      mapping_id: 539972
+    critic_rating: 1.0
+    audience_rating: 1.0
   Creed II (2018):
     match:
       mapping_id: 480530
@@ -534,6 +549,11 @@ metadata:
       mapping_id: 8871
     critic_rating: 1.0
     audience_rating: 1.0
+  Mr. Sleepy (2023):
+    match:
+      mapping_id: 1205369
+    critic_rating: 1.0
+    audience_rating: 9.6
   Dredd (2012):
     match:
       mapping_id: 49049
@@ -569,6 +589,11 @@ metadata:
       mapping_id: 68724
     critic_rating: 9.0
     audience_rating: 9.5
+  ET (2023):
+    match:
+      mapping_id: 1162046
+    critic_rating: 1.0
+    audience_rating: 1.0
   Eternals (2021):
     match:
       mapping_id: 524434
@@ -662,7 +687,7 @@ metadata:
   Fury (2014):
     match:
       mapping_id: 228150
-    critic_rating: 9.5
+    critic_rating: 1.0
     audience_rating: 1.0
   Gattaca (1997):
     match:
@@ -842,6 +867,11 @@ metadata:
   Indiana Jones and the Last Crusade (1989):
     match:
       mapping_id: 89
+    critic_rating: 1.0
+    audience_rating: 1.0
+  Indiana Bones and the Raiders of the Lost Bark (2014):
+    match:
+      mapping_id: 1311206
     critic_rating: 1.0
     audience_rating: 1.0
   Indiana Jones and the Temple of Doom (1984):
