@@ -84,9 +84,9 @@ metadata:
       mapping_id: 14161
     critic_rating: 1.0
     audience_rating: 1.0
-  3:10 to Yuma (1957):
+  3:10 to Yuma (2007):
     match:
-      mapping_id: 14168
+      mapping_id: 5176
     critic_rating: 1.0
     audience_rating: 1.0
   300 (2007):
@@ -314,9 +314,9 @@ metadata:
       mapping_id: 339846
     critic_rating: 1.0
     audience_rating: 1.0
-  Beast (2022):
+  Beast (2026):
     match:
-      mapping_id: 760741
+      mapping_id: 1292415
     critic_rating: 1.0
     audience_rating: 1.0
   Beetlejuice (1988):
@@ -1629,9 +1629,9 @@ metadata:
       mapping_id: 11639
     critic_rating: 1.0
     audience_rating: 1.0
-  The Dark Tower (2020):
+  The Dark Tower (2017):
     match:
-      mapping_id: 1456113
+      mapping_id: 353491
     critic_rating: 1.0
     audience_rating: 1.0
   The Equalizer (2014):
@@ -1754,7 +1754,7 @@ metadata:
       mapping_id: 346910
     critic_rating: 1.0
     audience_rating: 1.0
-  The Remedy (2025):
+  The Remedy (2026):
     match:
       mapping_id: 1434583
     critic_rating: 1.0
