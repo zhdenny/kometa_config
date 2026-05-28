@@ -874,6 +874,11 @@ metadata:
       mapping_id: 89
     critic_rating: 1.0
     audience_rating: 1.0
+  Lego Indiana Jones and the Raiders of the Lost Brick (2008):
+    match:
+      mapping_id: 139282
+    critic_rating: 1.0
+    audience_rating: 1.0
   Indiana Jones and the Temple of Doom (1984):
     match:
       mapping_id: 87
