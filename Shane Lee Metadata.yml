@@ -1519,9 +1519,9 @@ metadata:
       mapping_id: 634649
     critic_rating: 9.0
     audience_rating: 9.0
-  Spiral (2019):
+  Spiral (2025):
     match:
-      mapping_id: 614199
+      mapping_id: 1386734
     critic_rating: 9.5
     audience_rating: 9.0
   Split (2017):
@@ -1629,6 +1629,11 @@ metadata:
       mapping_id: 670292
     critic_rating: 1.0
     audience_rating: 1.0
+  The Crow (1994):
+    match:
+      mapping_id: 9495
+    critic_rating: 1.0
+    audience_rating: 1.0
   The Crow (2024):
     match:
       mapping_id: 957452
@@ -1654,9 +1659,9 @@ metadata:
       mapping_id: 746036
     critic_rating: 1.0
     audience_rating: 1.0
-  The Fast and the Furious (1954):
+  The Fast and the Furious (2001):
     match:
-      mapping_id: 20174
+      mapping_id: 9799
     critic_rating: 1.0
     audience_rating: 1.0
   The Fifth Element (1997):
