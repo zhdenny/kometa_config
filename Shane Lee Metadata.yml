@@ -339,6 +339,11 @@ metadata:
       mapping_id: 364
     critic_rating: 1.0
     audience_rating: 1.0
+  'Batman v. Superman: Dawn of Justice - Ultimate Edition':
+    match:
+      mapping_id: 1723199
+    critic_rating: 9.0
+    audience_rating: 1.0
   Baywatch (2017):
     match:
       mapping_id: 339846
