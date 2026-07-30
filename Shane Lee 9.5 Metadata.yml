@@ -1,4 +1,9 @@
 metadata:
+  Supergirl (2026):
+    match:
+      mapping_id: 1081003
+    critic_rating: 1.0
+    audience_rating: 1.0
   Masters of the Universe (2026):
     match:
       mapping_id: 454639
@@ -1586,11 +1591,6 @@ metadata:
   Ballerina (2025):
     match:
       mapping_id: 541671
-    critic_rating: 1.0
-    audience_rating: 1.0
-  'Batman v. Superman: Dawn of Justice - Ultimate Edition':
-    match:
-      mapping_id: 1723199
     critic_rating: 1.0
     audience_rating: 1.0
   Beast (2026):
