@@ -29,11 +29,6 @@ metadata:
       mapping_id: 7459
     critic_rating: 1.0
     audience_rating: 9.8
-  Project Hail Mary (2026):
-    match:
-      mapping_id: 687163
-    critic_rating: 1.0
-    audience_rating: 1.0
   Fight Club (1999):
     match:
       mapping_id: 550
@@ -1592,11 +1587,6 @@ metadata:
     match:
       mapping_id: 541671
     critic_rating: 1.0
-    audience_rating: 1.0
-  'Batman v. Superman: Dawn of Justice - Ultimate Edition':
-    match:
-      mapping_id: 1723199
-    critic_rating: 9.0
     audience_rating: 1.0
   Beast (2026):
     match:

@@ -29,11 +29,6 @@ metadata:
       mapping_id: 7459
     critic_rating: 1.0
     audience_rating: 9.8
-  Project Hail Mary (2026):
-    match:
-      mapping_id: 687163
-    critic_rating: 1.0
-    audience_rating: 1.0
   Fight Club (1999):
     match:
       mapping_id: 550
