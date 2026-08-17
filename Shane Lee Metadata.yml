@@ -374,11 +374,11 @@ metadata:
       mapping_id: 1092996
     critic_rating: 1.0
     audience_rating: 1.0
-  The Crow (1994):
+  The Crow (2024):
     match:
-      mapping_id: 9495
+      mapping_id: 957452
     critic_rating: 1.0
-    audience_rating: 1.0
+    audience_rating: 9.2
   The Creator (2023):
     match:
       mapping_id: 670292
@@ -943,9 +943,9 @@ metadata:
       mapping_id: 463821
     critic_rating: 10.0
     audience_rating: 9.5
-  A Star Is Born (2018):
+  A Star Is Born (1954):
     match:
-      mapping_id: 332562
+      mapping_id: 3111
     critic_rating: 1.0
     audience_rating: 1.0
   The Grinch (2018):
@@ -1488,9 +1488,9 @@ metadata:
       mapping_id: 76163
     critic_rating: 9.0
     audience_rating: 1.0
-  3:10 to Yuma (1957):
+  3:10 to Yuma (2007):
     match:
-      mapping_id: 14168
+      mapping_id: 5176
     critic_rating: 1.0
     audience_rating: 1.0
   La La Land (2016):
@@ -1958,11 +1958,6 @@ metadata:
       mapping_id: 102382
     critic_rating: 9.9
     audience_rating: 1.0
-  The Crow (2024):
-    match:
-      mapping_id: 957452
-    critic_rating: 1.0
-    audience_rating: 9.2
   The Goonies (1985):
     match:
       mapping_id: 9340
@@ -2063,9 +2058,9 @@ metadata:
       mapping_id: 580489
     critic_rating: 1.0
     audience_rating: 1.0
-  Dark Phoenix (2019):
+  X-Men the dark Phoenix Saga:
     match:
-      mapping_id: 320288
+      mapping_id: 1741874
     critic_rating: 1.0
     audience_rating: 1.0
   Zack Snyder's Justice League (2021):

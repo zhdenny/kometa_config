@@ -374,9 +374,9 @@ metadata:
       mapping_id: 1092996
     critic_rating: 1.0
     audience_rating: 1.0
-  The Crow (1994):
+  The Crow (2024):
     match:
-      mapping_id: 9495
+      mapping_id: 957452
     critic_rating: 1.0
     audience_rating: 1.0
   The Creator (2023):
@@ -424,9 +424,9 @@ metadata:
       mapping_id: 603692
     critic_rating: 1.0
     audience_rating: 1.0
-  The Super Mario Bros. Movie (2023):
+  Super Mario Bros. (1993):
     match:
-      mapping_id: 502356
+      mapping_id: 9607
     critic_rating: 1.0
     audience_rating: 1.0
   Evil Dead Rise (2023):
@@ -943,9 +943,9 @@ metadata:
       mapping_id: 463821
     critic_rating: 10.0
     audience_rating: 9.5
-  A Star Is Born (2018):
+  A Star Is Born (1954):
     match:
-      mapping_id: 332562
+      mapping_id: 3111
     critic_rating: 1.0
     audience_rating: 1.0
   The Grinch (2018):
@@ -1943,11 +1943,6 @@ metadata:
       mapping_id: 181812
     critic_rating: 1.0
     audience_rating: 1.0
-  Super Mario Bros. (1993):
-    match:
-      mapping_id: 9607
-    critic_rating: 1.0
-    audience_rating: 1.0
   Terminator Genisys (2015):
     match:
       mapping_id: 87101
@@ -1957,11 +1952,6 @@ metadata:
     match:
       mapping_id: 102382
     critic_rating: 9.9
-    audience_rating: 1.0
-  The Crow (2024):
-    match:
-      mapping_id: 957452
-    critic_rating: 1.0
     audience_rating: 1.0
   The Goonies (1985):
     match:
@@ -2063,9 +2053,9 @@ metadata:
       mapping_id: 580489
     critic_rating: 1.0
     audience_rating: 1.0
-  Dark Phoenix (2019):
+  X-Men the dark Phoenix Saga:
     match:
-      mapping_id: 320288
+      mapping_id: 1741874
     critic_rating: 1.0
     audience_rating: 1.0
   Zack Snyder's Justice League (2021):
