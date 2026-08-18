@@ -424,11 +424,11 @@ metadata:
       mapping_id: 603692
     critic_rating: 1.0
     audience_rating: 9.0
-  The Super Mario Bros. Movie (2023):
+  Super Mario Bros. (1993):
     match:
-      mapping_id: 502356
+      mapping_id: 9607
     critic_rating: 1.0
-    audience_rating: 9.2
+    audience_rating: 1.0
   Evil Dead Rise (2023):
     match:
       mapping_id: 713704
@@ -1941,11 +1941,6 @@ metadata:
   'Star Wars: The Rise of Skywalker (2019)':
     match:
       mapping_id: 181812
-    critic_rating: 1.0
-    audience_rating: 1.0
-  Super Mario Bros. (1993):
-    match:
-      mapping_id: 9607
     critic_rating: 1.0
     audience_rating: 1.0
   Terminator Genisys (2015):
