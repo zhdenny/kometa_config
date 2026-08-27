@@ -1593,6 +1593,11 @@ metadata:
       mapping_id: 541671
     critic_rating: 1.0
     audience_rating: 1.0
+  'Batman v Superman: Dawn of Justice: Ultimate Edition (2016)':
+    match:
+      mapping_id: 1756546
+    critic_rating: 9.0
+    audience_rating: 1.0
   Beast (2026):
     match:
       mapping_id: 1292415
