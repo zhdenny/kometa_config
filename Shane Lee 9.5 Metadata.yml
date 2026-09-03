@@ -1,4 +1,9 @@
 metadata:
+  V for Vendetta (2006):
+    match:
+      mapping_id: 752
+    critic_rating: 1.0
+    audience_rating: 1.0
   Evil Dead Burn (2026):
     match:
       mapping_id: 1212763
