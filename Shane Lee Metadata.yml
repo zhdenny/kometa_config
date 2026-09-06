@@ -1,4 +1,9 @@
 metadata:
+  Supergirl (2026):
+    match:
+      mapping_id: 1081003
+    critic_rating: 1.0
+    audience_rating: 1.0
   V for Vendetta (2006):
     match:
       mapping_id: 752
@@ -8,11 +13,6 @@ metadata:
     match:
       mapping_id: 1212763
     critic_rating: 9.9
-    audience_rating: 1.0
-  Supergirl (2026):
-    match:
-      mapping_id: 1081003
-    critic_rating: 1.0
     audience_rating: 1.0
   Masters of the Universe (2026):
     match:
