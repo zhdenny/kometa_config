@@ -953,11 +953,6 @@ metadata:
       mapping_id: 3111
     critic_rating: 1.0
     audience_rating: 1.0
-  The Grinch (2018):
-    match:
-      mapping_id: 360920
-    critic_rating: 1.0
-    audience_rating: 1.0
   Hunter Killer (2018):
     match:
       mapping_id: 399402
