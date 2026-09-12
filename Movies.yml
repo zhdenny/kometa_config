@@ -9,68 +9,49 @@ collections:
     cache_builders: 0
     sync_mode: sync
     collection_order: custom
-  # Marvel Cinematic Universe:
-  #   trakt_list:
-  #     - https://trakt.tv/users/tetharion/lists/marvel-cinematic-universe
-  #   cache_builders: 0
-  # Harry Potter Universe:
-  #   trakt_list:
-  #     - https://trakt.tv/users/jjmalpz/lists/harry-potter-fantastic-beasts
-  #     - https://trakt.tv/users/stupifier/lists/harry-potter-universe
-  #   cache_builders: 0
-  # Star Wars Universe:
-  #   trakt_list: https://trakt.tv/users/zorge88/lists/star-wars
-  #   cache_builders: 0
-  # James Bond:
-  #   trakt_list: https://trakt.tv/users/any/lists/james-bond
-  #   cache_builders: 0
-  # Fast & Furious:
-  #   trakt_list: https://trakt.tv/users/matmuilwijk/lists/fast-furious
-  #   cache_builders: 0
-  # Mission Impossible:
-  #   trakt_list: https://trakt.tv/users/jjmalpz/lists/mission-impossible
-  #   cache_builders: 0
-  # Star Trek Universe:
-  #   trakt_list: https://trakt.tv/users/strangerer/lists/star-trek
-  #   cache_builders: 0
-  # Terminator:
-  #   trakt_list: https://trakt.tv/users/strangerer/lists/terminator
-  #   cache_builders: 0
-  # X-Men:
-  #   trakt_list: https://trakt.tv/users/bertjj/lists/x-men
-  #   cache_builders: 0
-  # Batman:
-  #   trakt_list: https://trakt.tv/users/andersonwallacerj/lists/batman
-  #   cache_builders: 0
-  # Lord of The Rings:
-  #   trakt_list: https://trakt.tv/users/spite84/lists/lord-of-the-rings
-  #   cache_builders: 0
-  # Spider-Man:
-  #   imdb_list: https://www.imdb.com/list/ls049852613/
-  #   trakt_list: https://trakt.tv/users/james_97/lists/spider-verse
-  #   cache_builders: 0
-  # Jurassic Park:
-  #   trakt_list: https://trakt.tv/users/rygo92/lists/jurassic-park
-  #   cache_builders: 0
-  # Superman:
-  #   trakt_list:
-  #     - https://trakt.tv/users/liong1976/lists/superman-animated
-  #     - https://trakt.tv/users/movistapp/lists/superman
-  #   cache_builders: 0
-  # John Wick:
-  #   trakt_list: https://trakt.tv/users/jjmalpz/lists/john-wick
-  #   cache_builders: 0
-  # The Matrix:
-  #   trakt_list: https://trakt.tv/users/bruinschris/lists/matrix
-  #   cache_builders: 0
-  # DC Universe:
-  #   trakt_list:
-  #     - https://trakt.tv/users/donxy/lists/dc-extended-universe
-  #     - https://trakt.tv/users/monkey-fitz/lists/dceu-timeline
-  #   cache_builders: 0
-  # Aliens:
-  #   trakt_list: https://trakt.tv/users/barffy194/lists/aliens
-  #   cache_builders: 0
+  James Bond:
+    tmdb_collection:
+      - https://www.themoviedb.org/collection/645-james-bond-collection
+  Mission Impossible:
+    tmdb_collection:
+      - https://www.themoviedb.org/collection/87359-mission-impossible-collection
+  Terminator:
+    imdb_list:
+      - list_id: ls073507287
+  Batman:
+    tmdb_collection:
+      - https://www.themoviedb.org/collection/120794-batman-collection
+      - https://www.themoviedb.org/collection/948485-the-batman-collection
+      - https://www.themoviedb.org/collection/421904-batman-dc-universe-animated-collection
+      - https://www.themoviedb.org/collection/263-the-dark-knight-collection
+      - https://www.themoviedb.org/collection/334996-son-of-batman-collection
+    imdb_list:
+      - list_id: ls049621688
+      - list_id: ls563777440
+      - list_id: ls051841763
+      - list_id: ls059646235
+  Spider-Man:
+    tmdb_collection:
+      - https://www.themoviedb.org/collection/556-spider-man-collection
+      - https://www.themoviedb.org/collection/125574-the-amazing-spider-man-collection
+      - https://www.themoviedb.org/collection/531241-spider-man-mcu-collection
+      - https://www.themoviedb.org/collection/573436-spider-man-spider-verse-collection
+  Jurassic Park:
+    tmdb_collection:
+      - https://www.themoviedb.org/collection/328-jurassic-park-collection
+  Superman:
+    tmdb_collection:
+      - https://www.themoviedb.org/collection/8537-superman-collection
+      - https://www.themoviedb.org/collection/1540907-superman-dcu-collection
+      - https://www.themoviedb.org/collection/209131-man-of-steel-collection
+    imdb_list:
+      - list_id: ls098789730
+      - list_id: ls043664419
+      - list_id: ls599826567
+  John Wick:
+    tmdb_collection: https://www.themoviedb.org/collection/404609-john-wick-collection
+  The Matrix:
+    tmdb_collection: https://www.themoviedb.org/collection/2344-the-matrix-collection
   Rewatchables:
     tmdb_list: 8634243
     cache_builders: 0

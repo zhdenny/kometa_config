@@ -3,9 +3,6 @@ templates:
     url_poster: <<poster>>
 collections:
   Trending Movies:
-    #        tmdb_trending_weekly: 15
-    #        tmdb_popular: 15
-    #        mdblist_list: https://mdblist.com/lists/yamtrakt/most-watched-of-the-week-filtered #this is Yammes list I copied over to my own mdblist account (I'm using my own below)
     mdblist_list: https://mdblist.com/lists/stupifier/most-watched-movies-of-the-week-filtered
     collection_order: custom
     sort_title: "*100"
@@ -19,9 +16,8 @@ collections:
     mdblist_list: https://mdblist.com/lists/linaspurinis/top-watched-movies-of-the-week-for-kids
     sort_title: "*101"
   DC Animated Universe:
-    trakt_list:
-      - https://trakt.tv/users/donxy/lists/dc-universe-animated-original-movies
-      - https://trakt.tv/users/billy-shakes/lists/dc-universe-animated-original-movies
+    imdb_list:
+      - list_id: ls073507287
   Studio Ghibli:
     mdblist_list: https://mdblist.com/lists/irving_beano/studio-ghibli
     summary: Studio Ghibli Inc. is a Japanese
