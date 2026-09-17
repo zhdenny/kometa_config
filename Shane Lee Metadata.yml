@@ -1,4 +1,9 @@
 metadata:
+  The End of Oak Street (2026):
+    match:
+      mapping_id: 1101383
+    critic_rating: 1.0
+    audience_rating: 1.0
   Supergirl (2026):
     match:
       mapping_id: 1081003
@@ -134,7 +139,7 @@ metadata:
       mapping_id: 9373
     critic_rating: 1.0
     audience_rating: 9.0
-  The 40 Year Old Virgin (2005):
+  The 40 Year-Old Virgin (2005):
     match:
       mapping_id: 6957
     critic_rating: 1.0
@@ -379,11 +384,11 @@ metadata:
       mapping_id: 1092996
     critic_rating: 1.0
     audience_rating: 1.0
-  The Crow (2024):
+  The Crow (1994):
     match:
-      mapping_id: 957452
+      mapping_id: 9495
     critic_rating: 1.0
-    audience_rating: 9.2
+    audience_rating: 1.0
   The Creator (2023):
     match:
       mapping_id: 670292
@@ -724,9 +729,9 @@ metadata:
       mapping_id: 4011
     critic_rating: 1.0
     audience_rating: 1.0
-  Ghost in the Shell (1995):
+  Ghost in the Shell (2017):
     match:
-      mapping_id: 9323
+      mapping_id: 315837
     critic_rating: 1.0
     audience_rating: 1.0
   Pitch Black (2000):
@@ -868,9 +873,9 @@ metadata:
       mapping_id: 299537
     critic_rating: 1.0
     audience_rating: 1.0
-  Batman and Robin (1949):
+  Batman and Robin (1964):
     match:
-      mapping_id: 93560
+      mapping_id: 853920
     critic_rating: 1.0
     audience_rating: 1.0
   Crank (2006):
@@ -948,9 +953,9 @@ metadata:
       mapping_id: 463821
     critic_rating: 10.0
     audience_rating: 9.5
-  A Star Is Born (1954):
+  A Star Is Born (2018):
     match:
-      mapping_id: 3111
+      mapping_id: 332562
     critic_rating: 1.0
     audience_rating: 1.0
   Hunter Killer (2018):
@@ -1958,6 +1963,11 @@ metadata:
       mapping_id: 102382
     critic_rating: 9.9
     audience_rating: 1.0
+  The Crow (2024):
+    match:
+      mapping_id: 957452
+    critic_rating: 1.0
+    audience_rating: 9.2
   The Goonies (1985):
     match:
       mapping_id: 9340
