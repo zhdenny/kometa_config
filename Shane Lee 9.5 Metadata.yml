@@ -1,4 +1,9 @@
 metadata:
+  Interview with the Vampire (1994):
+    match:
+      mapping_id: 628
+    critic_rating: 1.0
+    audience_rating: 1.0
   Underwater (2020):
     match:
       mapping_id: 443791
