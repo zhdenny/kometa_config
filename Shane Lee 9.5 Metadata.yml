@@ -1,4 +1,9 @@
 metadata:
+  'Harry Potter and the Deathly Hallows: Part 2 (2011)':
+    match:
+      mapping_id: 12445
+    critic_rating: 10.0
+    audience_rating: 1.0
   Interview with the Vampire (1994):
     match:
       mapping_id: 628
@@ -1747,11 +1752,6 @@ metadata:
     match:
       mapping_id: 823464
     critic_rating: 1.0
-    audience_rating: 1.0
-  'Harry Potter and the Deathly Hallows: Part 2 (2011)':
-    match:
-      mapping_id: 12445
-    critic_rating: 10.0
     audience_rating: 1.0
   IF (2024):
     match:
