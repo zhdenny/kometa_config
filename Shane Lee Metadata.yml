@@ -1588,6 +1588,11 @@ metadata:
       mapping_id: 76600
     critic_rating: 1.0
     audience_rating: 9.8
+  'Avengers End Game: Encore (2026)':
+    match:
+      mapping_id: 1788316
+    critic_rating: 1.0
+    audience_rating: 9.0
   'Avengers: Endgame (2019)':
     match:
       mapping_id: 299534
