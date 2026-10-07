@@ -524,11 +524,6 @@ metadata:
       mapping_id: 763285
     critic_rating: 9.9
     audience_rating: 9.8
-  Moonfall (2022):
-    match:
-      mapping_id: 406759
-    critic_rating: 9.9
-    audience_rating: 1.0
   Uncharted (2022):
     match:
       mapping_id: 335787
