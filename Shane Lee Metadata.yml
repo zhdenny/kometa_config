@@ -1,4 +1,9 @@
 metadata:
+  'Spider-Man: Brand New Day (2026)':
+    match:
+      mapping_id: 969681
+    critic_rating: 9.1
+    audience_rating: 9.9
   'Harry Potter and the Deathly Hallows: Part 2 (2011)':
     match:
       mapping_id: 12445
