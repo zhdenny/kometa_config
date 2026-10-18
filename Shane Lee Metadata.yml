@@ -1,4 +1,9 @@
 metadata:
+  The Last Boy Scout (1991):
+    match:
+      mapping_id: 9319
+    critic_rating: 1.0
+    audience_rating: 9.1
   'Spider-Man: Brand New Day (2026)':
     match:
       mapping_id: 969681
@@ -399,16 +404,16 @@ metadata:
       mapping_id: 36955
     critic_rating: 1.0
     audience_rating: 1.0
-  Ocean's 11 (2013):
+  Ocean's 11 (2019):
     match:
-      mapping_id: 1092996
+      mapping_id: 916388
     critic_rating: 1.0
     audience_rating: 1.0
-  The Crow (1994):
+  The Crow (2024):
     match:
-      mapping_id: 9495
+      mapping_id: 957452
     critic_rating: 1.0
-    audience_rating: 1.0
+    audience_rating: 9.2
   The Creator (2023):
     match:
       mapping_id: 670292
@@ -888,9 +893,9 @@ metadata:
       mapping_id: 299537
     critic_rating: 1.0
     audience_rating: 1.0
-  Batman and Robin (1964):
+  Batman and Robin (1949):
     match:
-      mapping_id: 853920
+      mapping_id: 93560
     critic_rating: 1.0
     audience_rating: 1.0
   Crank (2006):
@@ -1038,9 +1043,9 @@ metadata:
       mapping_id: 246655
     critic_rating: 1.0
     audience_rating: 9.5
-  The Fast and the Furious (2001):
+  The Fast and the Furious (1954):
     match:
-      mapping_id: 9799
+      mapping_id: 20174
     critic_rating: 1.0
     audience_rating: 1.0
   'Sicario: Day of the Soldado (2018)':
@@ -1583,6 +1588,11 @@ metadata:
       mapping_id: 679
     critic_rating: 1.0
     audience_rating: 1.0
+  Avatar the way of water:
+    match:
+      mapping_id: 1787964
+    critic_rating: 1.0
+    audience_rating: 9.9
   'Avatar: The Way of Water (2022)':
     match:
       mapping_id: 76600
@@ -1623,9 +1633,9 @@ metadata:
       mapping_id: 1292415
     critic_rating: 1.0
     audience_rating: 1.0
-  Birds of Prey (1998):
+  Birds of Prey (1930):
     match:
-      mapping_id: 464389
+      mapping_id: 212861
     critic_rating: 1.0
     audience_rating: 1.0
   Black Adam (2022):
@@ -1973,11 +1983,6 @@ metadata:
       mapping_id: 102382
     critic_rating: 9.9
     audience_rating: 1.0
-  The Crow (2024):
-    match:
-      mapping_id: 957452
-    critic_rating: 1.0
-    audience_rating: 9.2
   The Goonies (1985):
     match:
       mapping_id: 9340
@@ -2073,9 +2078,9 @@ metadata:
       mapping_id: 580489
     critic_rating: 1.0
     audience_rating: 1.0
-  X-Men the dark Phoenix Saga:
+  Dark Phoenix (2019):
     match:
-      mapping_id: 1741874
+      mapping_id: 320288
     critic_rating: 1.0
     audience_rating: 1.0
   Zack Snyder's Justice League (2021):
