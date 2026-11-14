@@ -1,4 +1,9 @@
 metadata:
+  The Odyssey (2026):
+    match:
+      mapping_id: 1368337
+    critic_rating: 1.0
+    audience_rating: 9.0
   Black Hawk Down (2001):
     match:
       mapping_id: 855
