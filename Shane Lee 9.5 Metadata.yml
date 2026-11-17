@@ -419,14 +419,14 @@ metadata:
       mapping_id: 36955
     critic_rating: 1.0
     audience_rating: 1.0
-  Ocean's 11 (2019):
+  Ocean's 11 (2013):
     match:
-      mapping_id: 916388
+      mapping_id: 1092996
     critic_rating: 1.0
     audience_rating: 1.0
-  The Crow (2024):
+  The Crow (1994):
     match:
-      mapping_id: 957452
+      mapping_id: 9495
     critic_rating: 1.0
     audience_rating: 1.0
   The Creator (2023):
@@ -764,9 +764,9 @@ metadata:
       mapping_id: 4011
     critic_rating: 1.0
     audience_rating: 1.0
-  Ghost in the Shell (2017):
+  Ghost in the Shell (1995):
     match:
-      mapping_id: 315837
+      mapping_id: 9323
     critic_rating: 1.0
     audience_rating: 1.0
   Pitch Black (2000):
@@ -858,7 +858,7 @@ metadata:
       mapping_id: 474350
     critic_rating: 1.0
     audience_rating: 1.0
-  Once Upon a Time... in Hollywood (2019):
+  Once Upon a Time in... Hollywood (2019):
     match:
       mapping_id: 466272
     critic_rating: 1.0
@@ -1058,9 +1058,9 @@ metadata:
       mapping_id: 246655
     critic_rating: 1.0
     audience_rating: 9.5
-  The Fast and the Furious (1954):
+  The Fast and the Furious (2001):
     match:
-      mapping_id: 20174
+      mapping_id: 9799
     critic_rating: 1.0
     audience_rating: 1.0
   'Sicario: Day of the Soldado (2018)':
@@ -1603,11 +1603,6 @@ metadata:
       mapping_id: 679
     critic_rating: 1.0
     audience_rating: 1.0
-  Avatar the way of water:
-    match:
-      mapping_id: 1787964
-    critic_rating: 1.0
-    audience_rating: 9.9
   'Avatar: The Way of Water (2022)':
     match:
       mapping_id: 76600
@@ -1643,9 +1638,9 @@ metadata:
       mapping_id: 1292415
     critic_rating: 1.0
     audience_rating: 1.0
-  Birds of Prey (1930):
+  Birds of Prey (1921):
     match:
-      mapping_id: 212861
+      mapping_id: 1014261
     critic_rating: 1.0
     audience_rating: 1.0
   Black Adam (2022):
@@ -1992,6 +1987,11 @@ metadata:
     match:
       mapping_id: 102382
     critic_rating: 9.9
+    audience_rating: 1.0
+  The Crow (2024):
+    match:
+      mapping_id: 957452
+    critic_rating: 1.0
     audience_rating: 1.0
   The Goonies (1985):
     match:
